@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cap-it-certainties>
+    <cap-it-certainty code="Observed">
+        <value xml:lang="it">Osservato</value>
+        <description xml:lang="it">Evento accertato che si sia verificato o che sia in
+            corso</description>
+        <label xml:lang="it">Evento osservato</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-certainty>
+    <cap-it-certainty code="Likely">
+        <value xml:lang="it">Probabile</value>
+        <description xml:lang="it">Evento probabile (p &gt; ~50%)</description>
+        <label xml:lang="it">Evento probabile</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-certainty>
+    <cap-it-certainty code="Possible">
+        <value xml:lang="it">Possibile</value>
+        <description xml:lang="it">Evento possibile ma non probabile (p &lt;=~50%)</description>
+        <label xml:lang="it">Evento possibile</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-certainty>
+    <cap-it-certainty code="Unlikely">
+        <value xml:lang="it">Improbabile</value>
+        <description xml:lang="it">Evento non previsto che si verifichi (p ~ 0)</description>
+        <label xml:lang="it">Evento improbabile</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-certainty>
+    <cap-it-certainty code="Unknown">
+        <value xml:lang="it">Sconosciuta</value>
+        <description xml:lang="it">Certezza dell'evento sconosciuta</description>
+        <label xml:lang="it">Certezza evento sconosciuta</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-certainty>
+</cap-it-certainties>

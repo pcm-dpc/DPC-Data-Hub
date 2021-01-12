@@ -1,0 +1,13 @@
+code,hex_color,rgb_color,icon,value_it,description_it,label_it,value_en,description_en,label_en,value_de,description_de,label_de,value_es,description_es,label_es,value_fr,description_fr,label_fr
+Geo,c81316,2001922,cap-it--geo,Geofisica,Geofisica comprese frane,Geofisica,,,,,,,,,,,,
+Met,007bfc,0123252,cap-it--met,Meteorologia,Meteorologia comprese alluvioni,Meteorologia,,,,,,,,,,,,
+Safety,8e00d1,1420209,cap-it--safety,Sicurezza,Emergenza generale e pubblica sicurezza,Sicurezza,,,,,,,,,,,,
+Security,00ccff,0204255,cap-it--security,Forza di sicurezza,Forze di polizia militari sicurezza interna locale e privata,Forza di sicurezza,,,,,,,,,,,,
+Rescue,ffbc8e,255188142,cap-it--rescue,Soccorso,Soccorso e recupero,Soccorso,,,,,,,,,,,,
+Fire,d59800,2131520,cap-it--fire,Incendi,Spegnimento incendi e soccorso,Incendi,,,,,,,,,,,,
+Health,ff008c,2550140,cap-it--healt,Salute,Medicina e salute pubblica,Salute,,,,,,,,,,,,
+Env,3ed000,622080,cap-it--env,Ambiente,Inquinamento e altre categorie ambientali,Ambiente,,,,,,,,,,,,
+Transport,00b3a2,0179162,cap-it--transport,Trasporti,Trasporto pubblico e privato,Trasporti,,,,,,,,,,,,
+Infra,c7c7c7,199199199,cap-it--infra,Infrastrutture,Utility telecomunicazioni e altre infrastrutture non di trasporto,Infrastrutture,,,,,,,,,,,,
+CBRNE,494949,737373,cap-it--cbrne,CBRNE,Minaccia o attacco chimico biologico radiologico nucleare o di esplosivi ad alto potenzionale,CBRNE,,,,,,,,,,,,
+Other,004791,071145,cap-it--other,Altro,Altro,Altro,,,,,,,,,,,,

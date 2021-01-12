@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cap-it-errors>
+    <cap-it-error code="">
+        <cap-node/>
+        <description/>
+        <error_title xml:lang="it"/>
+        <error_title xml:lang="en"/>
+        <error_title xml:lang="de"/>
+        <error_title xml:lang="es"/>
+        <error_title xml:lang="fr"/>
+        <error_message xml:lang="it"/>
+        <error_message xml:lang="en"/>
+        <error_message xml:lang="de"/>
+        <error_message xml:lang="es"/>
+        <error_message xml:lang="fr"/>
+    </cap-it-error>
+</cap-it-errors>

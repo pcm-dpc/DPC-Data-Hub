@@ -1,0 +1,6 @@
+code,hex_color,rgb_color,value_it,description_it,label_it,value_en,description_en,label_en,value_de,description_de,label_de,value_es,description_es,label_es,value_fr,description_fr,label_fr
+Extreme,ff0000,25500,Estrema,Minaccia straordinaria alla vita o alla proprietˆ,Severità estrema,,,,,,,,,,,,
+Severe,ff6600,2551020,Significativa,Minaccia significativa alla vita o alla proprietà,Severità significativa,,,,,,,,,,,,
+Moderate,ffcc00,2552040,Moderata,Possibile minaccia alla vita o alla proprietà,Severità moderata,,,,,,,,,,,,
+Minor,00cc00,02040,Minima,Minaccia minima alla vita o alla proprietˆ,Severità minima,,,,,,,,,,,,
+Unknown,003399,051153,Sconosciuta,Severità sconosciuta,Severità sconosciuta,,,,,,,,,,,,

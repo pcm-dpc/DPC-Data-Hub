@@ -1,0 +1,23 @@
+{
+    "cap-it-error": [
+        {
+            "code": "",
+            "cap-node": "",
+            "description": "",
+            "error_title": {
+                "it": "",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "error_message": {
+                "it": "",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        }
+    ]
+}

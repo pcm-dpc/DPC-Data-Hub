@@ -1,0 +1,124 @@
+{
+    "cap-it-certainty": [
+        {
+            "code": "Observed",
+            "value": {
+                "it": "Osservato",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Evento accertato che si sia verificato o che sia in corso",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Evento osservato",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "Likely",
+            "value": {
+                "it": "Probabile",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Evento probabile (p > ~50%)",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Evento probabile",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "Possible",
+            "value": {
+                "it": "Possibile",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Evento possibile ma non probabile (p <= ~50%)",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Evento possibile",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "Unlikely",
+            "value": {
+                "it": "Improbabile",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Evento non previsto che si verifichi (p ~ 0)",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Evento improbabile",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "Unknown",
+            "value": {
+                "it": "Sconosciuta",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Certezza dell'evento sconosciuta",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Certezza evento sconosciuta",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        }
+    ]
+}

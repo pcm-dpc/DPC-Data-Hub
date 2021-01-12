@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cap-it-instructions>
+    <cap-it-instruction code="0001">
+        <description>Tsunami</description>
+        <title xml:lang="it">Tsunami</title>
+        <url xml:lang="it"/>
+        <title xml:lang="en"/>
+        <url xml:lang="en"/>
+        <title xml:lang="de"/>
+        <url xml:lang="de"/>
+        <title xml:lang="es"/>
+        <url xml:lang="es"/>
+        <title xml:lang="fr"/>
+        <url xml:lang="fr"/>
+    </cap-it-instruction>
+</cap-it-instructions>

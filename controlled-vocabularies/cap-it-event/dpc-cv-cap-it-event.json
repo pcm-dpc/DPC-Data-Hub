@@ -1,0 +1,30 @@
+{
+    "cap-it-event": [
+        {
+            "code": "tsunami",
+            "icon": "cap-it-tsunami",
+            "category": "Geo",
+            "value": {
+                "it": "Tsunami",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Serie di onde provocate da qualsiasi evento in grado di muovere verticalmente una grande colonna d'acqua: movimenti tettonici sottomarini, eruzioni vulcaniche, frane, esplosioni o caduta di meteoriti",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Tsunami",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        }
+    ]
+}

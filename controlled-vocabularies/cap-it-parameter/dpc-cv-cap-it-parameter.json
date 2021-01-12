@@ -1,0 +1,469 @@
+{
+    "cap-it-parameter": [
+        {
+            "code": "originMessageFile",
+            "values": "",
+            "cap_profile": "CAP-IT:1.0",
+            "mandatory": "If message from another cap",
+            "value": {
+                "it": "File",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "File CAP di origine",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "File",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "originMessageCapProfile",
+            "values": "",
+            "cap_profile": "CAP-IT:1.0",
+            "mandatory": "If message from another cap",
+            "value": {
+                "it": "Profilo",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Profilo CAP di origine",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Profilo",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "originMessageIdentifier",
+            "values": "",
+            "cap_profile": "CAP-IT:1.0",
+            "mandatory": "If message from another cap",
+            "value": {
+                "it": "Identificatore",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Identificatore del CAP di origine",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Identificatore",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "originMessageSender",
+            "values": "",
+            "cap_profile": "CAP-IT:1.0",
+            "mandatory": "If message from another cap",
+            "value": {
+                "it": "Mittente",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Mittente del CAP di origine",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Mittente",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "originMessageDateTime",
+            "values": "",
+            "cap_profile": "CAP-IT:1.0",
+            "mandatory": "If message from another cap",
+            "value": {
+                "it": "Data/Ora",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Data/Ora del file CAP di Origine",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Data/Ora",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "originMessageHash",
+            "values": "",
+            "cap_profile": "CAP-IT:1.0",
+            "mandatory": "If message from another cap",
+            "value": {
+                "it": "Hash",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Hash sha-256 del file CAP di origine",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Hash",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "eventCode",
+            "values": "",
+            "cap_profile": "CAP-IT:1.0",
+            "mandatory": "None",
+            "value": {
+                "it": "Codice evento",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Valore code del vocabolario controllato cap-it-event e riferito al valore label riportato nel nodo event",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Codice evento",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "repetition_seconds",
+            "values": "",
+            "cap_profile": "CAP-IT:1.0",
+            "mandatory": "If CellBroadcast message",
+            "value": {
+                "it": "Ripetizione",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Ripetizione dei messaggi",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Ripetizione",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "message_identifier",
+            "values": "",
+            "cap_profile": "CAP-IT:1.0",
+            "mandatory": "If CellBroadcast message",
+            "value": {
+                "it": "Identificatore",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Identificatore messaggi",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Identificatore",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "data_coding_scheme",
+            "values": "",
+            "cap_profile": "CAP-IT:1.0",
+            "mandatory": "If CellBroadcast message",
+            "value": {
+                "it": "Codifica",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Schema codifica dei dati",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Codifica",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "CODECALL",
+            "values": "",
+            "cap_profile": "CAP-IT-VF:0.1",
+            "mandatory": "",
+            "value": {
+                "it": "",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "CODEINT",
+            "values": "",
+            "cap_profile": "CAP-IT-VF:0.1",
+            "mandatory": "",
+            "value_it": "",
+            "description_it": "",
+            "label_it": "",
+            "value_en": "",
+            "description_en": "",
+            "label_en": "",
+            "value_de": "",
+            "description_de": "",
+            "label_de": "",
+            "value_es": "",
+            "description_es": "",
+            "label_es": "",
+            "value_fr": "",
+            "description_fr": "",
+            "label_fr": ""
+        },
+        {
+            "code": "TIMECALL",
+            "values": "",
+            "cap_profile": "CAP-IT-VF:0.1",
+            "mandatory": "",
+            "value_it": "",
+            "description_it": "",
+            "label_it": "",
+            "value_en": "",
+            "description_en": "",
+            "label_en": "",
+            "value_de": "",
+            "description_de": "",
+            "label_de": "",
+            "value_es": "",
+            "description_es": "",
+            "label_es": "",
+            "value_fr": "",
+            "description_fr": "",
+            "label_fr": ""
+        },
+        {
+            "code": "TIMEINT",
+            "values": "",
+            "cap_profile": "CAP-IT-VF:0.1",
+            "mandatory": "",
+            "value_it": "",
+            "description_it": "",
+            "label_it": "",
+            "value_en": "",
+            "description_en": "",
+            "label_en": "",
+            "value_de": "",
+            "description_de": "",
+            "label_de": "",
+            "value_es": "",
+            "description_es": "",
+            "label_es": "",
+            "value_fr": "",
+            "description_fr": "",
+            "label_fr": ""
+        },
+        {
+            "code": "TIMEARR",
+            "values": "",
+            "cap_profile": "CAP-IT-VF:0.1",
+            "mandatory": "",
+            "value_it": "",
+            "description_it": "",
+            "label_it": "",
+            "value_en": "",
+            "description_en": "",
+            "label_en": "",
+            "value_de": "",
+            "description_de": "",
+            "label_de": "",
+            "value_es": "",
+            "description_es": "",
+            "label_es": "",
+            "value_fr": "",
+            "description_fr": "",
+            "label_fr": ""
+        },
+        {
+            "code": "TIMECANC",
+            "values": "",
+            "cap_profile": "CAP-IT-VF:0.1",
+            "mandatory": "",
+            "value_it": "",
+            "description_it": "",
+            "label_it": "",
+            "value_en": "",
+            "description_en": "",
+            "label_en": "",
+            "value_de": "",
+            "description_de": "",
+            "label_de": "",
+            "value_es": "",
+            "description_es": "",
+            "label_es": "",
+            "value_fr": "",
+            "description_fr": "",
+            "label_fr": ""
+        },
+        {
+            "code": "INCIDENTPROGRESS",
+            "values": "",
+            "cap_profile": "CAP-IT-VF:0.1",
+            "mandatory": "",
+            "value_it": "",
+            "description_it": "",
+            "label_it": "",
+            "value_en": "",
+            "description_en": "",
+            "label_en": "",
+            "value_de": "",
+            "description_de": "",
+            "label_de": "",
+            "value_es": "",
+            "description_es": "",
+            "label_es": "",
+            "value_fr": "",
+            "description_fr": "",
+            "label_fr": ""
+        },
+        {
+            "code": "MAJOREVENT",
+            "values": "",
+            "cap_profile": "CAP-IT-VF:0.1",
+            "mandatory": "",
+            "value_it": "",
+            "description_it": "",
+            "label_it": "",
+            "value_en": "",
+            "description_en": "",
+            "label_en": "",
+            "value_de": "",
+            "description_de": "",
+            "label_de": "",
+            "value_es": "",
+            "description_es": "",
+            "label_es": "",
+            "value_fr": "",
+            "description_fr": "",
+            "label_fr": ""
+        },
+        {
+            "code": "REFNUM",
+            "values": "",
+            "cap_profile": "CAP-IT-VF:0.1",
+            "mandatory": "",
+            "value_it": "",
+            "description_it": "",
+            "label_it": "",
+            "value_en": "",
+            "description_en": "",
+            "label_en": "",
+            "value_de": "",
+            "description_de": "",
+            "label_de": "",
+            "value_es": "",
+            "description_es": "",
+            "label_es": "",
+            "value_fr": "",
+            "description_fr": "",
+            "label_fr": ""
+        }
+    ]
+}

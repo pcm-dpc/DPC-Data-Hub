@@ -1,0 +1,6 @@
+code,value_it,description_it,label_it,value_en,description_en,label_en,value_de,description_de,label_de,value_es,description_es,label_es,value_fr,description_fr,label_fr
+Observed,Osservato,Evento accertato che si sia verificato o che sia in corso,Evento osservato,,,,,,,,,,,,
+Likely,Probabile,Evento probabile (p > ~50%),Evento probabile,,,,,,,,,,,,
+Possible,Possibile,Evento possibile ma non probabile (p <= ~50%),Evento possibile,,,,,,,,,,,,
+Unlikely,Improbabile,Evento non previsto che si verifichi (p ~ 0),Evento improbabile,,,,,,,,,,,,
+Unknown,Sconosciuta,Certezza dell'evento sconosciuta,Certezza evento sconosciuta,,,,,,,,,,,,

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cap-it-mimetypes>
+    <cap-it-mimetype code="text/csv">
+        <description>CSV</description>
+    </cap-it-mimetype>
+    <cap-it-mimetype code="text/xml">
+        <description>XML</description>
+    </cap-it-mimetype>
+    <cap-it-mimetype code="application/json">
+        <description>JSON</description>
+    </cap-it-mimetype>
+    <cap-it-mimetype code="image/jpeg">
+        <description>JPEG</description>
+    </cap-it-mimetype>
+    <cap-it-mimetype code="image/png">
+        <description>PNG</description>
+    </cap-it-mimetype>
+    <cap-it-mimetype code="image/tiff">
+        <description>TIFF</description>
+    </cap-it-mimetype>
+    <cap-it-mimetype code="application/zip">
+        <description>ZIP</description>
+    </cap-it-mimetype>
+    <cap-it-mimetype code="application/shp">
+        <description>Shape</description>
+    </cap-it-mimetype>
+</cap-it-mimetypes>

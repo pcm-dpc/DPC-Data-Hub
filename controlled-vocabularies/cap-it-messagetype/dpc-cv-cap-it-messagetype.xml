@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cap-it-messagetypes>
+    <cap-it-messagetype code="Alert">
+        <value xml:lang="it">Allerta</value>
+        <description xml:lang="it">Nuovo messaggio</description>
+        <label xml:lang="it">Nuovo messaggio</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-messagetype>
+    <cap-it-messagetype code="Update">
+        <code/>
+        <value xml:lang="it">Aggiornamento</value>
+        <description xml:lang="it">Aggiornamento del messaggio</description>
+        <label xml:lang="it">Messaggio aggiornato</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-messagetype>
+    <cap-it-messagetype code="Cancel">
+        <code/>
+        <value xml:lang="it">Annullamento</value>
+        <description xml:lang="it">Messaggio annullato</description>
+        <label xml:lang="it">Messaggio annullato</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-messagetype>
+    <cap-it-messagetype code="Ack">
+        <code/>
+        <value xml:lang="it">Ack</value>
+        <description xml:lang="it">Riscontro del messaggio</description>
+        <label xml:lang="it">Ricezione messaggio avvenuta</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-messagetype>
+    <cap-it-messagetype code="Error">
+        <code/>
+        <value xml:lang="it">Errore</value>
+        <description xml:lang="it">Errore messaggio</description>
+        <label xml:lang="it">Errore messaggio</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-messagetype>
+</cap-it-messagetypes>

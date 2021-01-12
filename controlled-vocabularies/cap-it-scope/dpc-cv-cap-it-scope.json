@@ -1,0 +1,76 @@
+{
+    "cap-it-scope": [
+        {
+            "code": "Public",
+            "value": {
+                "it": "Pubblico",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Messaggio pubblico",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Messaggio pubblico",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "Restricted",
+            "value": {
+                "it": "Riservato",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Distribuzione del messaggio solo a specifici gruppi",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Messaggio riservato",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "Private",
+            "value": {
+                "it": "Privato",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Distribuzione a specifici indirizzi",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Messaggio privato",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        }
+    ]
+}

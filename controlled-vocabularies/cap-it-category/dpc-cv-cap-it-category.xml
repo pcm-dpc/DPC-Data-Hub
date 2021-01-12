@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cap-it-categories>
+    <cap-it-category code="Geo">
+        <hex_color>c81316</hex_color>
+        <rgb_color>200,19,22</rgb_color>
+        <icon>cap-it--geo</icon>
+        <value xml:lang="it">Geofisica</value>
+        <description xml:lang="it">Geofisica, comprese frane</description>
+        <label xml:lang="it">Geofisica</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-category>
+    <cap-it-category code="Met">
+        <hex_color>007bfc</hex_color>
+        <rgb_color>0,123,252</rgb_color>
+        <icon>cap-it--met</icon>
+        <value xml:lang="it">Meteorologia</value>
+        <description xml:lang="it">Meteorologia comprese alluvioni</description>
+        <label xml:lang="it">Meteorologia</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-category>
+    <cap-it-category code="Safety">
+        <hex_color>8e00d1</hex_color>
+        <rgb_color>142,0,209</rgb_color>
+        <icon>cap-it--safety</icon>
+        <value xml:lang="it">Sicurezza</value>
+        <description xml:lang="it">Emergenza generale e pubblica sicurezza</description>
+        <label xml:lang="it">Sicurezza</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-category>
+    <cap-it-category code="Security">
+        <hex_color>00ccff</hex_color>
+        <rgb_color>0,204,255</rgb_color>
+        <icon>cap-it--security</icon>
+        <value xml:lang="it">Forza di sicurezza</value>
+        <description xml:lang="it">Forze di polizia, militari, sicurezza interna, locale e
+            privata</description>
+        <label xml:lang="it">Forza di sicurezza</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-category>
+    <cap-it-category code="Rescue">
+        <hex_color>ffbc8e</hex_color>
+        <rgb_color>255,188,142</rgb_color>
+        <icon>cap-it--rescue</icon>
+        <value xml:lang="it">Soccorso</value>
+        <description xml:lang="it">Soccorso e recupero</description>
+        <label xml:lang="it">Soccorso</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-category>
+    <cap-it-category code="Fire">
+        <hex_color>d59800</hex_color>
+        <rgb_color>213,152,0</rgb_color>
+        <icon>cap-it--fire</icon>
+        <value xml:lang="it">Incendi</value>
+        <description xml:lang="it">Spegnimento incendi e soccorso</description>
+        <label xml:lang="it">Incendi</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-category>
+    <cap-it-category code="Health">
+        <hex_color>ff008c</hex_color>
+        <rgb_color>255,0,140</rgb_color>
+        <icon>cap-it--healt</icon>
+        <value xml:lang="it">Salute</value>
+        <description xml:lang="it">Medicina e salute pubblica</description>
+        <label xml:lang="it">Salute</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-category>
+    <cap-it-category code="Env">
+        <hex_color>3ed000</hex_color>
+        <rgb_color>62,208,0</rgb_color>
+        <icon>cap-it--env</icon>
+        <value xml:lang="it">Ambiente</value>
+        <description xml:lang="it">Inquinamento e altre categorie ambientali</description>
+        <label xml:lang="it">Ambiente</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-category>
+    <cap-it-category code="Transport">
+        <hex_color>00b3a2</hex_color>
+        <rgb_color>0,179,162</rgb_color>
+        <icon>cap-it--transport</icon>
+        <value xml:lang="it">Trasporti</value>
+        <description xml:lang="it">Trasporto pubblico e privato</description>
+        <label xml:lang="it">Trasporti</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-category>
+    <cap-it-category code="Infra">
+        <hex_color>c7c7c7</hex_color>
+        <rgb_color>199,199,199</rgb_color>
+        <icon>cap-it--infra</icon>
+        <value xml:lang="it">Infrastrutture</value>
+        <description xml:lang="it">Utility, telecomunicazioni e altre infrastrutture non di
+            trasporto</description>
+        <label xml:lang="it">Infrastrutture</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-category>
+    <cap-it-category code="CBRNE">
+        <hex_color>494949</hex_color>
+        <rgb_color>73,73,73</rgb_color>
+        <icon>cap-it--cbrne</icon>
+        <value xml:lang="it">CBRNE</value>
+        <description xml:lang="it">Minaccia o attacco chimico, biologico, radiologico, nucleare o di
+            esplosivi ad alto potenzionale</description>
+        <label xml:lang="it">CBRNE</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-category>
+    <cap-it-category code="Other">
+        <hex_color>004791</hex_color>
+        <rgb_color>0,71,145</rgb_color>
+        <icon>cap-it--other</icon>
+        <value xml:lang="it">Altro</value>
+        <description xml:lang="it">Altro</description>
+        <label xml:lang="it">Altro</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-category>
+</cap-it-categories>

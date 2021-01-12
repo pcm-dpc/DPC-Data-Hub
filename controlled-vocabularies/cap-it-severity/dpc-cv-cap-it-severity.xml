@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cap-it-severities>
+    <cap-it-severity code="Extreme">
+        <hex_color>ff0000</hex_color>
+        <rgb_color>255,0,0</rgb_color>
+        <value xml:lang="it">Estrema</value>
+        <description xml:lang="it">Minaccia straordinaria alla vita o alla proprietà</description>
+        <label xml:lang="it">Severità estrema</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-severity>
+    <cap-it-severity code="Severe">
+        <hex_color>ff6600</hex_color>
+        <rgb_color>255,102,0</rgb_color>
+        <value xml:lang="it">Significativa</value>
+        <description xml:lang="it">Minaccia significativa alla vita o alla proprietà</description>
+        <label xml:lang="it">Severità significativa</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-severity>
+    <cap-it-severity code="Moderate">
+        <hex_color>ffcc00</hex_color>
+        <rgb_color>255,204,0</rgb_color>
+        <value xml:lang="it">Moderata</value>
+        <description xml:lang="it">Possibile minaccia alla vita o alla proprietà</description>
+        <label xml:lang="it">Severità moderata</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-severity>
+    <cap-it-severity code="Minor">
+        <hex_color>00cc00</hex_color>
+        <rgb_color>0,204,0</rgb_color>
+        <value xml:lang="it">Minima</value>
+        <description xml:lang="it">Minaccia minima alla vita o alla proprietà</description>
+        <label xml:lang="it">Severità minima</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-severity>
+    <cap-it-severity code="Unknown">
+        <hex_color>003399</hex_color>
+        <rgb_color>0,51,153</rgb_color>
+        <value xml:lang="it">Sconosciuta</value>
+        <description xml:lang="it">Severità sconosciuta</description>
+        <label xml:lang="it">Severità sconosciuta</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-severity>
+</cap-it-severities>

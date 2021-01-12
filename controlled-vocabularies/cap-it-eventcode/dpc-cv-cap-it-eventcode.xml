@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cap-it-eventcodes>
+    <cap-it-eventcode code="">
+        <value xml:lang="it"/>
+        <description xml:lang="it"/>
+        <label xml:lang="it"/>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-eventcode>
+</cap-it-eventcodes>

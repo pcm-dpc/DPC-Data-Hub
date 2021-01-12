@@ -1,0 +1,328 @@
+{
+    "cap-it-category": [
+        {
+            "code": "Geo",
+            "hex_color": "c81316",
+            "rgb_color": "200,19,22",
+            "icon": "cap-it--geo",
+            "value": {
+                "it": "Geofisica",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Geofisica, comprese frane",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Geofisica",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "Met",
+            "hex_color": "007bfc",
+            "rgb_color": "0,123,252",
+            "icon": "cap-it--met",
+            "value": {
+                "it": "Meteorologia",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Meteorologia comprese alluvioni",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Meteorologia",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "Safety",
+            "hex_color": "8e00d1",
+            "rgb_color": "142,0,209",
+            "icon": "cap-it--safety",
+            "value": {
+                "it": "Sicurezza",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Emergenza generale e pubblica sicurezza",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Sicurezza",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "Security",
+            "hex_color": "00ccff",
+            "rgb_color": "0,204,255",
+            "icon": "cap-it--security",
+            "value": {
+                "it": "Forza di sicurezza",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Forze di polizia, militari, sicurezza interna, locale e privata",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Forza di sicurezza",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "Rescue",
+            "hex_color": "ffbc8e",
+            "rgb_color": "255,188,142",
+            "icon": "cap-it--rescue",
+            "value": {
+                "it": "Soccorso",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Soccorso e recupero",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Soccorso",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "Fire",
+            "hex_color": "d59800",
+            "rgb_color": "213,152,0",
+            "icon": "cap-it--fire",
+            "value": {
+                "it": "Incendi",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Spegnimento incendi e soccorso",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Incendi",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "Health",
+            "hex_color": "ff008c",
+            "rgb_color": "255,0,140",
+            "icon": "cap-it--healt",
+            "value": {
+                "it": "Salute",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Medicina e salute pubblica",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Salute",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "Env",
+            "hex_color": "3ed000",
+            "rgb_color": "62,208,0",
+            "icon": "cap-it--env",
+            "value": {
+                "it": "Ambiente",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Inquinamento e altre categorie ambientali",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Ambiente",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "Transport",
+            "hex_color": "00b3a2",
+            "rgb_color": "0,179,162",
+            "icon": "cap-it--transport",
+            "value": {
+                "it": "Trasporti",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Trasporto pubblico e privato",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Trasporti",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "Infra",
+            "hex_color": "c7c7c7",
+            "rgb_color": "199,199,199",
+            "icon": "cap-it--infra",
+            "value": {
+                "it": "Infrastrutture",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Utility, telecomunicazioni e altre infrastrutture non di trasporto",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Infrastrutture",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "CBRNE",
+            "hex_color": "494949",
+            "rgb_color": "73,73,73",
+            "icon": "cap-it--cbrne",
+            "value": {
+                "it": "CBRNE",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Minaccia o attacco chimico, biologico, radiologico, nucleare o di esplosivi ad alto potenzionale",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "CBRNE",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "Other",
+            "hex_color": "004791",
+            "rgb_color": "0,71,145",
+            "icon": "cap-it--other",
+            "value": {
+                "it": "Altro",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Altro",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Altro",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        }
+    ]
+}

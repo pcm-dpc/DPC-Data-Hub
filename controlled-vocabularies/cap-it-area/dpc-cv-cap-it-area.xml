@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cap-it-areas>
+    <cap-it-area code="comuni">
+        <filename>DPC-ITA-Comuni</filename>
+        <file_uri>https://github.com/pcm-dpc/DPC-Data-Hub/tree/master/geodata/comuni</file_uri>
+        <description xml:lang="it">Comuni italiani</description>
+        <description xml:lang="en"/>
+        <description xml:lang="de"/>
+        <description xml:lang="es"/>
+        <description xml:lang="fr"/>
+    </cap-it-area>
+    <cap-it-area code="meteoidro">
+        <filename>DPC-ITA-MeteoIdro</filename>
+        <file_uri>https://github.com/pcm-dpc/DPC-Data-Hub/tree/master/geodata/meteoidro</file_uri>
+        <description xml:lang="it">Aree MeteoIdro</description>
+        <description xml:lang="en"/>
+        <description xml:lang="de"/>
+        <description xml:lang="es"/>
+        <description xml:lang="fr"/>
+    </cap-it-area>
+    <cap-it-area code="nazione">
+        <filename>DPC-ITA-Nazione</filename>
+        <file_uri>https://github.com/pcm-dpc/DPC-Data-Hub/tree/master/geodata/nazione</file_uri>
+        <description xml:lang="it">Italia</description>
+        <description xml:lang="en"/>
+        <description xml:lang="de"/>
+        <description xml:lang="es"/>
+        <description xml:lang="fr"/>
+    </cap-it-area>
+    <cap-it-area code="province">
+        <filename>DPC-ITA-Province</filename>
+        <file_uri>https://github.com/pcm-dpc/DPC-Data-Hub/tree/master/geodata/province</file_uri>
+        <description xml:lang="it">Province</description>
+        <description xml:lang="en"/>
+        <description xml:lang="de"/>
+        <description xml:lang="es"/>
+        <description xml:lang="fr"/>
+    </cap-it-area>
+    <cap-it-area code="regioni">
+        <filename>DPC-ITA-Regioni</filename>
+        <file_uri>https://github.com/pcm-dpc/DPC-Data-Hub/tree/master/geodata/regioni</file_uri>
+        <description xml:lang="it">Regioni</description>
+        <description xml:lang="en"/>
+        <description xml:lang="de"/>
+        <description xml:lang="es"/>
+        <description xml:lang="fr"/>
+    </cap-it-area>
+    <cap-it-area code="ripartizioni">
+        <filename>DPC-ITA-Ripartizioni</filename>
+        <file_uri>https://github.com/pcm-dpc/DPC-Data-Hub/tree/master/geodata/ripartizioni</file_uri>
+        <description xml:lang="it">Ripartizioni geografiche</description>
+        <description xml:lang="en"/>
+        <description xml:lang="de"/>
+        <description xml:lang="es"/>
+        <description xml:lang="fr"/>
+    </cap-it-area>
+    <cap-it-area code="tsnunami">
+        <filename>DPC-ITA-Tsunami</filename>
+        <file_uri>https://github.com/pcm-dpc/DPC-Data-Hub/tree/master/geodata/tsnunami</file_uri>
+        <description xml:lang="it">Aree tsunami</description>
+        <description xml:lang="en"/>
+        <description xml:lang="de"/>
+        <description xml:lang="es"/>
+        <description xml:lang="fr"/>
+    </cap-it-area>
+</cap-it-areas>

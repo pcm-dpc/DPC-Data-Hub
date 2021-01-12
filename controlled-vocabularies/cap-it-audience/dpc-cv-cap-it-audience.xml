@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cap-it-audiences>
+    <cap-it-audience code="">
+        <description xml:lang="it"/>
+        <description xml:lang="en"/>
+        <description xml:lang="de"/>
+        <description xml:lang="es"/>
+        <description xml:lang="fr"/>
+    </cap-it-audience>
+</cap-it-audiences>

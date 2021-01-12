@@ -1,0 +1,9 @@
+code,description
+text/csv,CSV
+text/xml,XML
+application/json,JSON
+image/jpeg,JPEG
+image/png,PNG
+image/tiff,TIFF
+application/zip,ZIP
+application/shp,Shape

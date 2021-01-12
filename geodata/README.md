@@ -1,0 +1,1 @@
+I formati GeoJSON, TopoJSON e Sql sono in fase di elaborazione.

@@ -1,0 +1,6 @@
+code,value_it,description_it,label_it,value_en,description_en,label_en,value_de,description_de,label_de,value_es,description_es,label_es,value_fr,description_fr,label_fr
+Immediate,Immediata,Intervento reattivo che dovrebbe essere eseguito immediatamente,Urgenza immediata,,,,,,,,,,,,
+Expected,Prevista,Intervento reattivo che dovrebbe essere eseguito presto (entro un'ora),Urgenza prevista,,,,,,,,,,,,
+Future,Futura,Intervento reattivo che dovrebbe essere eseguito in un futuro prossimo,Urgenza futura,,,,,,,,,,,,
+Past,Passata,Intervento reattivo non più necessario,Urgenza passata,,,,,,,,,,,,
+Unknown,Sconosciuta,Urgenza sconosciuta,Urgenza sconosciuta,,,,,,,,,,,,

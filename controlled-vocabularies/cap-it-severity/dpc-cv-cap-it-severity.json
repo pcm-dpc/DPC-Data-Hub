@@ -1,0 +1,134 @@
+{
+    "cap-it-severity": [
+        {
+            "code": "Extreme",
+            "hex_color": "ff0000",
+            "rgb_color": "255,0,0",
+            "value": {
+                "it": "Estrema",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Minaccia straordinaria alla vita o alla proprietà",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Severità estrema",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "Severe",
+            "hex_color": "ff6600",
+            "rgb_color": "255,102,0",
+            "value": {
+                "it": "Significativa",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Minaccia significativa alla vita o alla proprietà",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Severità significativa",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "Moderate",
+            "hex_color": "ffcc00",
+            "rgb_color": "255,204,0",
+            "value": {
+                "it": "Moderata",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Possibile minaccia alla vita o alla proprietà",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Severità moderata",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "Minor",
+            "hex_color": "00cc00",
+            "rgb_color": "0,204,0",
+            "value": {
+                "it": "Minima",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Minaccia minima alla vita o alla proprietà",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Severità minima",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "Unknown",
+            "hex_color": "003399",
+            "rgb_color": "0,51,153",
+            "value": {
+                "it": "Sconosciuta",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Severità sconosciuta",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Severità sconosciuta",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        }
+    ]
+}

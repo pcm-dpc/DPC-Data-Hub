@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cap-it-statuses>
+    <cap-it-status code="Actual">
+        <value xml:lang="it">Reale</value>
+        <description xml:lang="it">Messaggio reale</description>
+        <label xml:lang="it">Messaggio reale</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-status>
+    <cap-it-status code="Exercise">
+        <value xml:lang="it">Esercitazione</value>
+        <description xml:lang="it">Messaggio di esercitazione</description>
+        <label xml:lang="it">Messaggio di esercitazione</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-status>
+    <cap-it-status code="System">
+        <value xml:lang="it">Sistema</value>
+        <description xml:lang="it">Messaggio di sistema</description>
+        <label xml:lang="it">Messaggio di sistema</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-status>
+    <cap-it-status code="Test">
+        <value xml:lang="it">Test</value>
+        <description xml:lang="it">Messaggio di test</description>
+        <label xml:lang="it">Messaggio di test</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-status>
+    <cap-it-status code="Draft">
+        <value xml:lang="it">Bozza</value>
+        <description xml:lang="it">Messaggio bozza non utilizzabile</description>
+        <label xml:lang="it">Messaggio bozza</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-status>
+</cap-it-statuses>

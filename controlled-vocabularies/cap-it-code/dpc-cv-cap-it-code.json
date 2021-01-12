@@ -1,0 +1,48 @@
+{
+    "cap-it-code": [
+        {
+            "code": "CAP:1.2",
+            "description": {
+                "it": "CAP",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "profile_url": "https://www.oasis-open.org/standards#capv1.2"
+        },
+        {
+            "code": "CAP-IT:1.0",
+            "description": {
+                "it": "CAP",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "profile_url": "https://edxl-it.protezionecivile.it/cap-it"
+        },
+        {
+            "code": "CAP-IT-VF:0.1",
+            "description": {
+                "it": "CAP Vigili del Fuoco",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "profile_url": "http://www.vigilfuoco.it/aspx/Page.aspx?IdPage=4554"
+        },
+        {
+            "code": "CAP-TSU:1.0",
+            "description": {
+                "it": "CAP Tsunami",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "profile_url": "https://www.tsunami.gov/?page=cap"
+        }
+    ]
+}

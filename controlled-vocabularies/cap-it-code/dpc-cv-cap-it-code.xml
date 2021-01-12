@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cap-it-codes>
+    <cap-it-code code="CAP:1.2">
+        <description xml:lang="it">CAP</description>
+        <description xml:lang="en"/>
+        <description xml:lang="de"/>
+        <description xml:lang="es"/>
+        <description xml:lang="fr"/>
+        <profile_url>https://www.oasis-open.org/standards#capv1.2</profile_url>
+    </cap-it-code>
+    <cap-it-code code="CAP-IT:1.0">
+        <description xml:lang="it">Profilo italiano del CAP</description>
+        <description xml:lang="en"/>
+        <description xml:lang="de"/>
+        <description xml:lang="es"/>
+        <description xml:lang="fr"/>
+        <profile_url>https://edxl-it.protezionecivile.it/cap-it</profile_url>
+    </cap-it-code>
+    <cap-it-code code="CAP-IT-VF:0.1">
+        <description xml:lang="it">CAP Vigili del Fuoco</description>
+        <description xml:lang="en"/>
+        <description xml:lang="de"/>
+        <description xml:lang="es"/>
+        <description xml:lang="fr"/>
+        <profile_url>http://www.vigilfuoco.it/aspx/Page.aspx?IdPage=4554</profile_url>
+    </cap-it-code>
+    <cap-it-code code="CAP-TSU:1.0">
+        <description xml:lang="it">CAP Tsunami</description>
+        <description xml:lang="en"/>
+        <description xml:lang="de"/>
+        <description xml:lang="es"/>
+        <description xml:lang="fr"/>
+        <profile_url>https://www.tsunami.gov/?page=cap</profile_url>
+    </cap-it-code>
+</cap-it-codes>

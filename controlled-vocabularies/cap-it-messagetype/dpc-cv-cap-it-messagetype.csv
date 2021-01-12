@@ -1,0 +1,6 @@
+code,value_it,description_it,label_it,value_en,description_en,label_en,value_de,description_de,label_de,value_es,description_es,label_es,value_fr,description_fr,label_fr
+Alert,Allerta,Nuovo messaggio,Nuovo messaggio,,,,,,,,,,,,
+Update,Aggiornamento,Aggiornamento del messaggio,Messaggio aggiornato,,,,,,,,,,,,
+Cancel,Annullamento,Messaggio annullato,Messaggio annullato,,,,,,,,,,,,
+Ack,Ack,Riscontro del messaggio,Ricezione messaggio avvenuta,,,,,,,,,,,,
+Error,Errore,Errore messaggio,Errore messaggio,,,,,,,,,,,,

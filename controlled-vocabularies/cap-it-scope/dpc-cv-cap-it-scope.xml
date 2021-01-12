@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cap-it-scopes>
+    <cap-it-scope code="Public">
+        <value xml:lang="it">Pubblico</value>
+        <description xml:lang="it">Messaggio pubblico</description>
+        <label xml:lang="it">Messaggio pubblico</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-scope>
+    <cap-it-scope code="Restricted">
+        <value xml:lang="it">Riservato</value>
+        <description xml:lang="it">Distribuzione del messaggio solo a specifici gruppi</description>
+        <label xml:lang="it">Messaggio riservato</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-scope>
+    <cap-it-scope code="Private">
+        <value xml:lang="it">Privato</value>
+        <description xml:lang="it">Distribuzione a specifici indirizzi</description>
+        <label xml:lang="it">Messaggio privato</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-scope>
+</cap-it-scopes>

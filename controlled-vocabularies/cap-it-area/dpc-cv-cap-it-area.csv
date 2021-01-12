@@ -1,0 +1,8 @@
+code,filename,file_uri,description_en,description_en,description_en,description_en,description_en
+comuni,DPC-ITA-Comuni,https://github.com/pcm-dpc/DPC-Data-Hub/tree/master/geodata/comuni,Comuni italiani,,,,
+meteoidro,DPC-ITA-MeteoIdro,https://github.com/pcm-dpc/DPC-Data-Hub/tree/master/geodata/meteoidro,Aree MeteoIdro,,,,
+nazione,DPC-ITA-Nazione,https://github.com/pcm-dpc/DPC-Data-Hub/tree/master/geodata/nazione,Italia,,,,
+province,DPC-ITA-Province,https://github.com/pcm-dpc/DPC-Data-Hub/tree/master/geodata/province,Province,,,,
+regioni,DPC-ITA-Regioni,https://github.com/pcm-dpc/DPC-Data-Hub/tree/master/geodata/regioni,Regioni,,,,
+ripartizioni,DPC-ITA-Ripartizioni,https://github.com/pcm-dpc/DPC-Data-Hub/tree/master/geodata/ripartizioni,Ripartizioni geografiche,,,,
+tsnunami,DPC-ITA-Tsunami,https://github.com/pcm-dpc/DPC-Data-Hub/tree/master/geodata/tsnunami,Aree tsunami,,,,

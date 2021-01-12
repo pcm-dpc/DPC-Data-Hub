@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cap-it-parameters>
+    <cap-it-parameter>
+        <code>originMessageFile</code>
+        <values/>
+        <cap_profile>CAP-IT:1.0</cap_profile>
+        <mandatory>If message from another cap</mandatory>
+        <value xml:lang="it">File</value>
+        <description xml:lang="it">File CAP di origine</description>
+        <label xml:lang="it">File</label>
+        <value_en/>
+        <description_en/>
+        <label_en/>
+        <value_de/>
+        <description_de/>
+        <label_de/>
+        <value_es/>
+        <description_es/>
+        <label_es/>
+        <value_fr/>
+        <description_fr/>
+        <label_fr/>
+    </cap-it-parameter>
+    <cap-it-event>
+        <code>originMessageCapProfile</code>
+        <values/>
+        <cap_profile>CAP-IT:1.0</cap_profile>
+        <mandatory>If message from another cap</mandatory>
+        <value xml:lang="it">Profilo</value>
+        <description xml:lang="it">Profilo CAP di origine</description>
+        <label xml:lang="it">Profilo</label>
+        <value_en/>
+        <description_en/>
+        <label_en/>
+        <value_de/>
+        <description_de/>
+        <label_de/>
+        <value_es/>
+        <description_es/>
+        <label_es/>
+        <value_fr/>
+        <description_fr/>
+        <label_fr/>
+    </cap-it-event>
+    <cap-it-event>
+        <code>originMessageIdentifier</code>
+        <values/>
+        <cap_profile>CAP-IT:1.0</cap_profile>
+        <mandatory>If message from another cap</mandatory>
+        <value xml:lang="it">Identificatore</value>
+        <description xml:lang="it">Identificatore del CAP di origine</description>
+        <label xml:lang="it">Identificatore</label>
+        <value_en/>
+        <description_en/>
+        <label_en/>
+        <value_de/>
+        <description_de/>
+        <label_de/>
+        <value_es/>
+        <description_es/>
+        <label_es/>
+        <value_fr/>
+        <description_fr/>
+        <label_fr/>
+    </cap-it-event>
+    <cap-it-event>
+        <code>originMessageSender</code>
+        <values/>
+        <cap_profile>CAP-IT:1.0</cap_profile>
+        <mandatory>If message from another cap</mandatory>
+        <value xml:lang="it">Mittente</value>
+        <description xml:lang="it">Mittente del CAP di origine</description>
+        <label xml:lang="it">Mittente</label>
+        <value_en/>
+        <description_en/>
+        <label_en/>
+        <value_de/>
+        <description_de/>
+        <label_de/>
+        <value_es/>
+        <description_es/>
+        <label_es/>
+        <value_fr/>
+        <description_fr/>
+        <label_fr/>
+    </cap-it-event>
+    <cap-it-event>
+        <code>originMessageDateTime</code>
+        <values/>
+        <cap_profile>CAP-IT:1.0</cap_profile>
+        <mandatory>If message from another cap</mandatory>
+        <value xml:lang="it">Data/Ora </value>
+        <description xml:lang="it">Data/Ora del file CAP di Origine</description>
+        <label xml:lang="it">Data/Ora </label>
+        <value_en/>
+        <description_en/>
+        <label_en/>
+        <value_de/>
+        <description_de/>
+        <label_de/>
+        <value_es/>
+        <description_es/>
+        <label_es/>
+        <value_fr/>
+        <description_fr/>
+        <label_fr/>
+    </cap-it-event>
+    <cap-it-event>
+        <code>originMessageHash</code>
+        <values/>
+        <cap_profile>CAP-IT:1.0</cap_profile>
+        <mandatory>If message from another cap</mandatory>
+        <value xml:lang="it">Hash</value>
+        <description xml:lang="it">Hash sha-256 del file CAP di origine</description>
+        <label xml:lang="it">Hash</label>
+        <value_en/>
+        <description_en/>
+        <label_en/>
+        <value_de/>
+        <description_de/>
+        <label_de/>
+        <value_es/>
+        <description_es/>
+        <label_es/>
+        <value_fr/>
+        <description_fr/>
+        <label_fr/>
+    </cap-it-event>
+    <cap-it-event>
+        <code>eventCode</code>
+        <values/>
+        <cap_profile>CAP-IT:1.0</cap_profile>
+        <mandatory>None</mandatory>
+        <value xml:lang="it">Codice evento</value>
+        <description xml:lang="it">Valore code del vocabolario controllato cap-it-event e riferito
+            al valore label riportato nel nodo event</description>
+        <label xml:lang="it">Codice evento</label>
+        <value_en/>
+        <description_en/>
+        <label_en/>
+        <value_de/>
+        <description_de/>
+        <label_de/>
+        <value_es/>
+        <description_es/>
+        <label_es/>
+        <value_fr/>
+        <description_fr/>
+        <label_fr/>
+    </cap-it-event>
+    <cap-it-event>
+        <code>repetition_seconds</code>
+        <values/>
+        <cap_profile>CAP-IT:1.0</cap_profile>
+        <mandatory>If CellBroadcast message</mandatory>
+        <value xml:lang="it">Ripetizione</value>
+        <description xml:lang="it">Ripetizione dei messaggi</description>
+        <label xml:lang="it">Ripetizione</label>
+        <value_en/>
+        <description_en/>
+        <label_en/>
+        <value_de/>
+        <description_de/>
+        <label_de/>
+        <value_es/>
+        <description_es/>
+        <label_es/>
+        <value_fr/>
+        <description_fr/>
+        <label_fr/>
+    </cap-it-event>
+    <cap-it-event>
+        <code>message_identifier</code>
+        <values/>
+        <cap_profile>CAP-IT:1.0</cap_profile>
+        <mandatory>If CellBroadcast message</mandatory>
+        <value xml:lang="it">Identificatore</value>
+        <description xml:lang="it">Identificatore messaggi</description>
+        <label xml:lang="it">Identificatore</label>
+        <value_en/>
+        <description_en/>
+        <label_en/>
+        <value_de/>
+        <description_de/>
+        <label_de/>
+        <value_es/>
+        <description_es/>
+        <label_es/>
+        <value_fr/>
+        <description_fr/>
+        <label_fr/>
+    </cap-it-event>
+    <cap-it-event>
+        <code>data_coding_scheme</code>
+        <values/>
+        <cap_profile>CAP-IT:1.0</cap_profile>
+        <mandatory>If CellBroadcast message</mandatory>
+        <value xml:lang="it">Codifica</value>
+        <description xml:lang="it">Schema codifica dei dati</description>
+        <label xml:lang="it">Codifica</label>
+        <value_en/>
+        <description_en/>
+        <label_en/>
+        <value_de/>
+        <description_de/>
+        <label_de/>
+        <value_es/>
+        <description_es/>
+        <label_es/>
+        <value_fr/>
+        <description_fr/>
+        <label_fr/>
+    </cap-it-event>
+    <cap-it-event>
+        <code>CODECALL</code>
+        <values/>
+        <cap_profile>CAP-IT-VF:0.1</cap_profile>
+        <mandatory/>
+        <value xml:lang="it"/>
+        <description xml:lang="it"/>
+        <label xml:lang="it"/>
+        <value_en/>
+        <description_en/>
+        <label_en/>
+        <value_de/>
+        <description_de/>
+        <label_de/>
+        <value_es/>
+        <description_es/>
+        <label_es/>
+        <value_fr/>
+        <description_fr/>
+        <label_fr/>
+    </cap-it-event>
+    <cap-it-event>
+        <code>CODEINT</code>
+        <values/>
+        <cap_profile>CAP-IT-VF:0.1</cap_profile>
+        <mandatory/>
+        <value xml:lang="it"/>
+        <description xml:lang="it"/>
+        <label xml:lang="it"/>
+        <value_en/>
+        <description_en/>
+        <label_en/>
+        <value_de/>
+        <description_de/>
+        <label_de/>
+        <value_es/>
+        <description_es/>
+        <label_es/>
+        <value_fr/>
+        <description_fr/>
+        <label_fr/>
+    </cap-it-event>
+    <cap-it-event>
+        <code>TIMECALL</code>
+        <values/>
+        <cap_profile>CAP-IT-VF:0.1</cap_profile>
+        <mandatory/>
+        <value xml:lang="it"/>
+        <description xml:lang="it"/>
+        <label xml:lang="it"/>
+        <value_en/>
+        <description_en/>
+        <label_en/>
+        <value_de/>
+        <description_de/>
+        <label_de/>
+        <value_es/>
+        <description_es/>
+        <label_es/>
+        <value_fr/>
+        <description_fr/>
+        <label_fr/>
+    </cap-it-event>
+    <cap-it-event>
+        <code>TIMEINT</code>
+        <values/>
+        <cap_profile>CAP-IT-VF:0.1</cap_profile>
+        <mandatory/>
+        <value xml:lang="it"/>
+        <description xml:lang="it"/>
+        <label xml:lang="it"/>
+        <value_en/>
+        <description_en/>
+        <label_en/>
+        <value_de/>
+        <description_de/>
+        <label_de/>
+        <value_es/>
+        <description_es/>
+        <label_es/>
+        <value_fr/>
+        <description_fr/>
+        <label_fr/>
+    </cap-it-event>
+    <cap-it-event>
+        <code>TIMEARR</code>
+        <values/>
+        <cap_profile>CAP-IT-VF:0.1</cap_profile>
+        <mandatory/>
+        <value xml:lang="it"/>
+        <description xml:lang="it"/>
+        <label xml:lang="it"/>
+        <value_en/>
+        <description_en/>
+        <label_en/>
+        <value_de/>
+        <description_de/>
+        <label_de/>
+        <value_es/>
+        <description_es/>
+        <label_es/>
+        <value_fr/>
+        <description_fr/>
+        <label_fr/>
+    </cap-it-event>
+    <cap-it-event>
+        <code>TIMECANC</code>
+        <values/>
+        <cap_profile>CAP-IT-VF:0.1</cap_profile>
+        <mandatory/>
+        <value xml:lang="it"/>
+        <description xml:lang="it"/>
+        <label xml:lang="it"/>
+        <value_en/>
+        <description_en/>
+        <label_en/>
+        <value_de/>
+        <description_de/>
+        <label_de/>
+        <value_es/>
+        <description_es/>
+        <label_es/>
+        <value_fr/>
+        <description_fr/>
+        <label_fr/>
+    </cap-it-event>
+    <cap-it-event>
+        <code>INCIDENTPROGRESS</code>
+        <values/>
+        <cap_profile>CAP-IT-VF:0.1</cap_profile>
+        <mandatory/>
+        <value xml:lang="it"/>
+        <description xml:lang="it"/>
+        <label xml:lang="it"/>
+        <value_en/>
+        <description_en/>
+        <label_en/>
+        <value_de/>
+        <description_de/>
+        <label_de/>
+        <value_es/>
+        <description_es/>
+        <label_es/>
+        <value_fr/>
+        <description_fr/>
+        <label_fr/>
+    </cap-it-event>
+    <cap-it-event>
+        <code>MAJOREVENT</code>
+        <values/>
+        <cap_profile>CAP-IT-VF:0.1</cap_profile>
+        <mandatory/>
+        <value xml:lang="it"/>
+        <description xml:lang="it"/>
+        <label xml:lang="it"/>
+        <value_en/>
+        <description_en/>
+        <label_en/>
+        <value_de/>
+        <description_de/>
+        <label_de/>
+        <value_es/>
+        <description_es/>
+        <label_es/>
+        <value_fr/>
+        <description_fr/>
+        <label_fr/>
+    </cap-it-event>
+    <cap-it-event>
+        <code>REFNUM</code>
+        <values/>
+        <cap_profile>CAP-IT-VF:0.1</cap_profile>
+        <mandatory/>
+        <value xml:lang="it"/>
+        <description xml:lang="it"/>
+        <label xml:lang="it"/>
+        <value_en/>
+        <description_en/>
+        <label_en/>
+        <value_de/>
+        <description_de/>
+        <label_de/>
+        <value_es/>
+        <description_es/>
+        <label_es/>
+        <value_fr/>
+        <description_fr/>
+        <label_fr/>
+    </cap-it-event>
+</cap-it-parameters>

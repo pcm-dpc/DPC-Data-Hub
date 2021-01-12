@@ -1,0 +1,175 @@
+{
+    "cap-it-status": [
+        {
+            "code": "Actual",
+            "value": {
+                "it": "Reale",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Messaggio reale",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Messaggio reale",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "Exercise",
+            "value": {
+                "it": "Reale",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Messaggio reale",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Messaggio reale",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+            "value_it": "Esercitazione",
+            "value": {
+                "it": "Reale",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Messaggio reale",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Messaggio reale",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+            "description_it": "Messaggio di esercitazione",
+            "label_it": "Messaggio di esercitazione",
+            "value_en": "",
+            "description_en": "",
+            "label_en": "",
+            "value_de": "",
+            "description_de": "",
+            "label_de": "",
+            "value_es": "",
+            "description_es": "",
+            "label_es": "",
+            "value_fr": "",
+            "description_fr": "",
+            "label_fr": ""
+        },
+        {
+            "code": "System",
+            "value": {
+                "it": "Reale",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Messaggio reale",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Messaggio reale",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+            "value_it": "Sistema",
+            "description_it": "Messaggio di sistema",
+            "label_it": "Messaggio di sistema",
+            "value_en": "",
+            "description_en": "",
+            "label_en": "",
+            "value_de": "",
+            "description_de": "",
+            "label_de": "",
+            "value_es": "",
+            "description_es": "",
+            "label_es": "",
+            "value_fr": "",
+            "description_fr": "",
+            "label_fr": ""
+        },
+        {
+            "code": "Test",
+            "value": {
+                "it": "Test",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Messaggio di test",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Messaggio di test",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "Draft",
+            "value": {
+                "it": "Bozza",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "description": {
+                "it": "Messaggio bozza non utilizzabile",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "label": {
+                "it": "Messaggio bozza",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        }
+    ]
+}

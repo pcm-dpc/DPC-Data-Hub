@@ -1,0 +1,4 @@
+code,value_it,description_it,label_it,value_en,description_en,label_en,value_de,description_de,label_de,value_es,description_es,label_es,value_fr,description_fr,label_fr
+Public,Pubblico,Messaggio pubblico,Messaggio pubblico,,,,,,,,,,,,
+Restricted,Riservato,Distribuzione del messaggio solo a specifici gruppi,Messaggio riservato,,,,,,,,,,,,
+Private,Privato,Distribuzione a specifici indirizzi,Messaggio privato,,,,,,,,,,,,

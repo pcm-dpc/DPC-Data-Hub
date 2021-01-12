@@ -1,0 +1,88 @@
+{
+    "cap-it-area": [
+        {
+            "code": "comuni",
+            "filename": "DPC-ITA-Comuni",
+            "file_uri": "https://github.com/pcm-dpc/DPC-Data-Hub/tree/master/geodata/comuni",
+            "description": {
+                "it": "Comuni italiani",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "meteoidro",
+            "filename": "DPC-ITA-MeteoIdro",
+            "file_uri": "https://github.com/pcm-dpc/DPC-Data-Hub/tree/master/geodata/meteoidro",
+            "description": {
+                "it": "Aree MeteoIdro",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "nazione",
+            "filename": "DPC-ITA-Nazione",
+            "file_uri": "https://github.com/pcm-dpc/DPC-Data-Hub/tree/master/geodata/nazione",
+            "description": {
+                "it": "Italia",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "province",
+            "filename": "DPC-ITA-Province",
+            "file_uri": "https://github.com/pcm-dpc/DPC-Data-Hub/tree/master/geodata/province",
+            "description": {
+                "it": "Province",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "regioni",
+            "filename": "DPC-ITA-Regioni",
+            "file_uri": "https://github.com/pcm-dpc/DPC-Data-Hub/tree/master/geodata/regioni",
+            "description": {
+                "it": "Regioni",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "ripartizioni",
+            "filename": "DPC-ITA-Ripartizioni",
+            "file_uri": "https://github.com/pcm-dpc/DPC-Data-Hub/tree/master/geodata/ripartizioni",
+            "description": {
+                "it": "Ripartizioni geografiche",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "tsnunami",
+            "filename": "DPC-ITA-Tsunami",
+            "file_uri": "https://github.com/pcm-dpc/DPC-Data-Hub/tree/master/geodata/tsnunami",
+            "description": {
+                "it": "Aree tsunami",
+                "en": "",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        }
+    ]
+}

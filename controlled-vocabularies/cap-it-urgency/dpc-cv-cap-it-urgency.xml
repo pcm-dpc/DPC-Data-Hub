@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cap-it-urgencies>
+    <cap-it-urgency code="Immediate">
+        <value xml:lang="it">Immediata</value>
+        <description xml:lang="it">Intervento reattivo che dovrebbe essere eseguito
+            immediatamente</description>
+        <label xml:lang="it">Urgenza immediata</label>
+        <value_en/>
+        <description_en/>
+        <label_en/>
+        <value_de/>
+        <description_de/>
+        <label_de/>
+        <value_es/>
+        <description_es/>
+        <label_es/>
+        <value_fr/>
+        <description_fr/>
+        <label_fr/>
+    </cap-it-urgency>
+    <cap-it-urgency code="Expected">
+        <value xml:lang="it">Prevista</value>
+        <description xml:lang="it">Intervento reattivo che dovrebbe essere eseguito presto (entro
+            un&apos;ora)</description>
+        <label xml:lang="it">Urgenza prevista</label>
+        <value_en/>
+        <description_en/>
+        <label_en/>
+        <value_de/>
+        <description_de/>
+        <label_de/>
+        <value_es/>
+        <description_es/>
+        <label_es/>
+        <value_fr/>
+        <description_fr/>
+        <label_fr/>
+    </cap-it-urgency>
+    <cap-it-urgency code="Future">
+        <value xml:lang="it">Futura</value>
+        <description xml:lang="it">Intervento reattivo che dovrebbe essere eseguito in un futuro
+            prossimo</description>
+        <label xml:lang="it">Urgenza futura</label>
+        <value_en/>
+        <description_en/>
+        <label_en/>
+        <value_de/>
+        <description_de/>
+        <label_de/>
+        <value_es/>
+        <description_es/>
+        <label_es/>
+        <value_fr/>
+        <description_fr/>
+        <label_fr/>
+    </cap-it-urgency>
+    <cap-it-urgency code="Past">
+        <value xml:lang="it">Passata</value>
+        <description xml:lang="it">Intervento reattivo non più necessario</description>
+        <label xml:lang="it">Urgenza passata</label>
+        <value_en/>
+        <description_en/>
+        <label_en/>
+        <value_de/>
+        <description_de/>
+        <label_de/>
+        <value_es/>
+        <description_es/>
+        <label_es/>
+        <value_fr/>
+        <description_fr/>
+        <label_fr/>
+    </cap-it-urgency>
+    <cap-it-urgency code="Unknown">
+        <value xml:lang="it">Sconosciuta</value>
+        <description xml:lang="it">Urgenza sconosciuta</description>
+        <label xml:lang="it">Urgenza sconosciuta</label>
+        <value_en/>
+        <description_en/>
+        <label_en/>
+        <value_de/>
+        <description_de/>
+        <label_de/>
+        <value_es/>
+        <description_es/>
+        <label_es/>
+        <value_fr/>
+        <description_fr/>
+        <label_fr/>
+    </cap-it-urgency>
+</cap-it-urgencies>

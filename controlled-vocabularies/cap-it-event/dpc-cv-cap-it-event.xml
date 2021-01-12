@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cap-it-events>
+    <cap-it-event code="tsunami">
+        <icon>cap-it-tsunami</icon>
+        <category>Geo</category>
+        <value xml:lang="it">Tsunami</value>
+        <description xml:lang="it">Serie di onde provocate da qualsiasi evento in grado di muovere
+            verticalmente una grande colonna d'acqua: movimenti tettonici sottomarini, eruzioni
+            vulcaniche, frane, esplosioni o caduta di meteoriti</description>
+        <label xml:lang="it">Tsunami</label>
+        <value xml:lang="en"/>
+        <description xml:lang="en"/>
+        <label xml:lang="en"/>
+        <value xml:lang="de"/>
+        <description xml:lang="de"/>
+        <label xml:lang="de"/>
+        <value xml:lang="es"/>
+        <description xml:lang="es"/>
+        <label xml:lang="es"/>
+        <value xml:lang="fr"/>
+        <description xml:lang="fr"/>
+        <label xml:lang="fr"/>
+    </cap-it-event>
+</cap-it-events>

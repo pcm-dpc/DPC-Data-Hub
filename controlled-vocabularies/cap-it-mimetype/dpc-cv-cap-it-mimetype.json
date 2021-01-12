@@ -1,0 +1,36 @@
+{
+    "cap-it-mimetype": [
+        {
+            "code": "text/csv",
+            "description": "CSV"
+        },
+        {
+            "code": "text/xml",
+            "description": "XML"
+        },
+        {
+            "code": "application/json",
+            "description": "JSON"
+        },
+        {
+            "code": "image/jpeg",
+            "description": "JPEG"
+        },
+        {
+            "code": "image/png",
+            "description": "PNG"
+        },
+        {
+            "code": "image/tiff",
+            "description": "TIFF"
+        },
+        {
+            "code": "application/zip",
+            "description": "ZIP"
+        },
+        {
+            "code": "application/shp",
+            "description": "Shape"
+        }
+    ]
+}
