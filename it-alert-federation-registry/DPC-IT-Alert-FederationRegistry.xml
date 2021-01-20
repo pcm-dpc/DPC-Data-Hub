@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AlertHub-IT-FederationRegistry
+    xmlns:ahit="https://alerthub.protezionecivile.it/federation-registry#"
+    xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://alerthub.protezionecivile.it/federation-registry/AlertHub-IT-FederationRegistry.xsd"
+    id="a484ff97-46f8-41a6-a953-710ffe485198"
+    version="1.0"
+    releaseDate="2020-09-15">
+    <ahit:entities>
+        <ahit:entity IPACode="PCM-DPC">
+            <ahit:entityName>Dipartimento della Protezione Civile</ahit:entityName>
+            <ahit:entityMetadata>PCM-DPC-v1.xml</ahit:entityMetadata>
+            <ahit:version>1.0</ahit:version>
+            <ahit:releaseData>2020-09-15</ahit:releaseData>
+            <ahit:status>active</ahit:status>
+        </ahit:entity>
+    </ahit:entities>
+</AlertHub-IT-FederationRegistry>
