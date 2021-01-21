@@ -1,19 +1,152 @@
 {
     "cap-it-error": [
         {
-            "code": "",
+            "code": "100",
             "cap-node": "",
-            "description": "",
+            "description": "emittente del messaggio non valido",
             "error_title": {
-                "it": "",
-                "en": "",
+                "it": "emittente del messaggio non valido",
+                "en": "invalid-sender",
                 "de": "",
                 "es": "",
                 "fr": ""
             },
             "error_message": {
-                "it": "",
-                "en": "",
+                "it": "emittente del messaggio non valido",
+                "en": "invalid-sender",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "101",
+            "cap-node": "",
+            "description": "versione del protocollo non supportato",
+            "error_title": {
+                "it": "versione del protocollo non supportato",
+                "en": "protocol-version-not-supported",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "error_message": {
+                "it": "versione del protocollo non supportato",
+                "en": "protocol-version-not-supported",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "102",
+            "cap-node": "",
+            "description": "errore del server",
+            "error_title": {
+                "it": "errore del server",
+                "en": "server-error",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "error_message": {
+                "it": "errore del server",
+                "en": "server-error",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "103",
+            "cap-node": "",
+            "description": "formato non valido",
+            "error_title": {
+                "it": "formato non valido",
+                "en": "invalid-format",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "error_message": {
+                "it": "formato non valido",
+                "en": "invalid-format",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "104",
+            "cap-node": "",
+            "description": "elemento non valido",
+            "error_title": {
+                "it": "elemento non valido",
+                "en": "invalid-element",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "error_message": {
+                "it": "elemento non valido",
+                "en": "invalid-element",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "105",
+            "cap-node": "",
+            "description": "elemento mancante",
+            "error_title": {
+                "it": "elemento mancante",
+                "en": "missing-element",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "error_message": {
+                "it": "elemento mancante",
+                "en": "missing-element",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "106",
+            "cap-node": "",
+            "description": "operazione non consentita",
+            "error_title": {
+                "it": "operazione non consentita",
+                "en": "operation-not-allowed",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "error_message": {
+                "it": "operazione non consentita",
+                "en": "operation-not-allowed",
+                "de": "",
+                "es": "",
+                "fr": ""
+            }
+        },
+        {
+            "code": "107",
+            "cap-node": "",
+            "description": "operazione scartata a priori",
+            "error_title": {
+                "it": "operazione scartata a priori",
+                "en": "operation-pre-empted",
+                "de": "",
+                "es": "",
+                "fr": ""
+            },
+            "error_message": {
+                "it": "operazione scartata a priori",
+                "en": "operation-pre-empted",
                 "de": "",
                 "es": "",
                 "fr": ""

@@ -1,15 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cap-it-errors>
-    <cap-it-error code="">
+    <cap-it-error code="100">
         <cap-node/>
-        <description/>
-        <error_title xml:lang="it"/>
-        <error_title xml:lang="en"/>
+        <description>emittente del messaggio non valido</description>
+        <error_title xml:lang="it">emittente del messaggio non valido</error_title>
+        <error_title xml:lang="en">invalid-sender</error_title>
         <error_title xml:lang="de"/>
         <error_title xml:lang="es"/>
         <error_title xml:lang="fr"/>
-        <error_message xml:lang="it"/>
-        <error_message xml:lang="en"/>
+        <error_message xml:lang="it">emittente del messaggio non valido</error_message>
+        <error_message xml:lang="en">invalid-sender</error_message>
+        <error_message xml:lang="de"/>
+        <error_message xml:lang="es"/>
+        <error_message xml:lang="fr"/>
+    </cap-it-error>
+    <cap-it-error code="101">
+        <cap-node/>
+        <description>versione del protocollo non supportato</description>
+        <error_title xml:lang="it">versione del protocollo non supportato</error_title>
+        <error_title xml:lang="en">protocol-version-not-supported</error_title>
+        <error_title xml:lang="de"/>
+        <error_title xml:lang="es"/>
+        <error_title xml:lang="fr"/>
+        <error_message xml:lang="it">versione del protocollo non supportato</error_message>
+        <error_message xml:lang="en">protocol-version-not-supported</error_message>
+        <error_message xml:lang="de"/>
+        <error_message xml:lang="es"/>
+        <error_message xml:lang="fr"/>
+    </cap-it-error>
+    <cap-it-error code="102">
+        <cap-node/>
+        <description>errore del server</description>
+        <error_title xml:lang="it">errore del server</error_title>
+        <error_title xml:lang="en">server-error</error_title>
+        <error_title xml:lang="de"/>
+        <error_title xml:lang="es"/>
+        <error_title xml:lang="fr"/>
+        <error_message xml:lang="it">errore del server</error_message>
+        <error_message xml:lang="en">server-error</error_message>
+        <error_message xml:lang="de"/>
+        <error_message xml:lang="es"/>
+        <error_message xml:lang="fr"/>
+    </cap-it-error>
+    <cap-it-error code="103">
+        <cap-node/>
+        <description>formato non valido</description>
+        <error_title xml:lang="it">formato non valido</error_title>
+        <error_title xml:lang="en">invalid-format</error_title>
+        <error_title xml:lang="de"/>
+        <error_title xml:lang="es"/>
+        <error_title xml:lang="fr"/>
+        <error_message xml:lang="it">formato non valido</error_message>
+        <error_message xml:lang="en">invalid-format</error_message>
+        <error_message xml:lang="de"/>
+        <error_message xml:lang="es"/>
+        <error_message xml:lang="fr"/>
+    </cap-it-error>
+    <cap-it-error code="104">
+        <cap-node/>
+        <description>elemento non valido</description>
+        <error_title xml:lang="it">elemento non valido</error_title>
+        <error_title xml:lang="en">invalid-element</error_title>
+        <error_title xml:lang="de"/>
+        <error_title xml:lang="es"/>
+        <error_title xml:lang="fr"/>
+        <error_message xml:lang="it">elemento non valido</error_message>
+        <error_message xml:lang="en">invalid-element</error_message>
+        <error_message xml:lang="de"/>
+        <error_message xml:lang="es"/>
+        <error_message xml:lang="fr"/>
+    </cap-it-error>
+    <cap-it-error code="105">
+        <cap-node/>
+        <description>elemento mancante</description>
+        <error_title xml:lang="it">elemento mancante</error_title>
+        <error_title xml:lang="en">missing-element</error_title>
+        <error_title xml:lang="de"/>
+        <error_title xml:lang="es"/>
+        <error_title xml:lang="fr"/>
+        <error_message xml:lang="it">elemento mancante</error_message>
+        <error_message xml:lang="en">missing-element</error_message>
+        <error_message xml:lang="de"/>
+        <error_message xml:lang="es"/>
+        <error_message xml:lang="fr"/>
+    </cap-it-error>
+    <cap-it-error code="106">
+        <cap-node/>
+        <description>operazione non consentita</description>
+        <error_title xml:lang="it">operazione non consentita</error_title>
+        <error_title xml:lang="en">operation-not-allowed</error_title>
+        <error_title xml:lang="de"/>
+        <error_title xml:lang="es"/>
+        <error_title xml:lang="fr"/>
+        <error_message xml:lang="it">operazione non consentita</error_message>
+        <error_message xml:lang="en">operation-not-allowed</error_message>
+        <error_message xml:lang="de"/>
+        <error_message xml:lang="es"/>
+        <error_message xml:lang="fr"/>
+    </cap-it-error>
+    <cap-it-error code="107">
+        <cap-node/>
+        <description>operazione scartata a priori</description>
+        <error_title xml:lang="it">operazione scartata a priori</error_title>
+        <error_title xml:lang="en">operation-pre-empted</error_title>
+        <error_title xml:lang="de"/>
+        <error_title xml:lang="es"/>
+        <error_title xml:lang="fr"/>
+        <error_message xml:lang="it">operazione scartata a priori</error_message>
+        <error_message xml:lang="en">operation-pre-empted</error_message>
         <error_message xml:lang="de"/>
         <error_message xml:lang="es"/>
         <error_message xml:lang="fr"/>

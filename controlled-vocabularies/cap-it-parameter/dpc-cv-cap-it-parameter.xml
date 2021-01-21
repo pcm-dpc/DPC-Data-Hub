@@ -150,7 +150,7 @@
     </cap-it-event>
     <cap-it-event>
         <code>repetition_seconds</code>
-        <values/>
+        <values>2;4;8;16;30;60;120;240;480;960</values>
         <cap_profile>CAP-IT:1.0</cap_profile>
         <mandatory>If CellBroadcast message</mandatory>
         <value xml:lang="it">Ripetizione</value>
@@ -171,7 +171,7 @@
     </cap-it-event>
     <cap-it-event>
         <code>message_identifier</code>
-        <values/>
+        <values>919;918;916;4370;4371;4375;4381;4383;4384;4388;4394</values>
         <cap_profile>CAP-IT:1.0</cap_profile>
         <mandatory>If CellBroadcast message</mandatory>
         <value xml:lang="it">Identificatore</value>
@@ -192,7 +192,7 @@
     </cap-it-event>
     <cap-it-event>
         <code>data_coding_scheme</code>
-        <values/>
+        <values>0;1;2;3;4;15</values>
         <cap_profile>CAP-IT:1.0</cap_profile>
         <mandatory>If CellBroadcast message</mandatory>
         <value xml:lang="it">Codifica</value>

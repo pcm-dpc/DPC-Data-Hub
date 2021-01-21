@@ -191,7 +191,7 @@
         },
         {
             "code": "repetition_seconds",
-            "values": "",
+            "values": "2;4;8;16;30;60;120;240;480;960",
             "cap_profile": "CAP-IT:1.0",
             "mandatory": "If CellBroadcast message",
             "value": {
@@ -218,7 +218,7 @@
         },
         {
             "code": "message_identifier",
-            "values": "",
+            "values": "919;918;916;4370;4371;4375;4381;4383;4384;4388;4394",
             "cap_profile": "CAP-IT:1.0",
             "mandatory": "If CellBroadcast message",
             "value": {
@@ -245,7 +245,7 @@
         },
         {
             "code": "data_coding_scheme",
-            "values": "",
+            "values": "0;1;2;3;4;15",
             "cap_profile": "CAP-IT:1.0",
             "mandatory": "If CellBroadcast message",
             "value": {
