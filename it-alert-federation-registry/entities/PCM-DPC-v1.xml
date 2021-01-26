@@ -20,8 +20,8 @@
             </ahit:geographicalAreaCovered>
         </ahit:geographicalAreasCovered>
         <ahit:appUris>
-            <ahit:appUri>https://siam.protezionecivile.it/postCap001</ahit:appUri>
-            <ahit:appUri>https://siam.protezionecivile.it/postCap002</ahit:appUri>
+            <ahit:appUri>https://xxx/postCap001</ahit:appUri>
+            <ahit:appUri>https://xxx/postCap002</ahit:appUri>
         </ahit:appUris>
         <ahit:confirmMessage>
             <ahit:confirmMessageCode>ABC123</ahit:confirmMessageCode>
