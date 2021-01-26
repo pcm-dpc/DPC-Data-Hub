@@ -4,16 +4,27 @@
     xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://alerthub.protezionecivile.it/federation-registry/AlertHub-IT-FederationRegistry.xsd"
-    id="a484ff97-46f8-41a6-a953-710ffe485198"
-    version="1.0"
-    releaseDate="2020-09-15">
+    id="a484ff97-46f8-41a6-a953-710ffe485198" version="1.0" releaseDate="2020-09-15">
     <ahit:entities>
-        <ahit:entity IPACode="PCM-DPC">
-            <ahit:entityName>Dipartimento della Protezione Civile</ahit:entityName>
-            <ahit:entityMetadata>PCM-DPC-v1.xml</ahit:entityMetadata>
-            <ahit:version>1.0</ahit:version>
-            <ahit:releaseData>2020-09-15</ahit:releaseData>
-            <ahit:status>active</ahit:status>
+        <ahit:entity entityCode="PCM-DPC">
+            <ahit:organizationData>
+                <ahit:Name xml:lang="it">Dipartimento della Protezione Civile</ahit:Name>
+                <ahit:Name xml:lang="en">Civil Protection Department</ahit:Name>
+                <ahit:ExtendedName xml:lang="it">Presidenza del Consiglio dei Ministri -
+                    Dipartimento della Protezione Civile</ahit:ExtendedName>
+                <ahit:ExtendedName xml:lang="en">Presidency of the Council of Ministers - Civil
+                    Protection Department</ahit:ExtendedName>
+                <ahit:Abbreviation xml:lang="it">DPC</ahit:Abbreviation>
+                <ahit:Abbreviation xml:lang="en">DPC</ahit:Abbreviation>
+                <ahit:Logo>https://xxxxxxxx/0001--PCM-DPC.longLogo.svg</ahit:Logo>
+                <ahit:LogoBase64>0001--PCM-DPC.longLogo.svg</ahit:LogoBase64>
+            </ahit:organizationData>
+            <ahit:organizationMetadata>
+                <ahit:entityMetadata>PCM-DPC-v1.xml</ahit:entityMetadata>
+                <ahit:version>1.0</ahit:version>
+                <ahit:releaseData>2020-09-15</ahit:releaseData>
+                <ahit:status>active</ahit:status>
+            </ahit:organizationMetadata>
         </ahit:entity>
     </ahit:entities>
 </AlertHub-IT-FederationRegistry>

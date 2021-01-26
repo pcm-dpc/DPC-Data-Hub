@@ -1,30 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AlertHub-IT-FederationRegistry-Entity 
+<AlertHub-IT-FederationRegistry-Entity
     xmlns:ahit="https://alerthub.protezionecivile.it/federation-registry#"
     xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://alerthub.protezionecivile.it/federation-registry/AlertHub-IT-FederationRegistry-Entity.xsd"
-    id="b37b2476-8e54-4707-9791-91820c59d531"
-    entityCode="PCM-DPC"
-    version="1.0"
+    id="b37b2476-8e54-4707-9791-91820c59d531" entityCode="PCM-DPC" version="1.0"
     releaseDate="2020-09-15">
-    <ahit:organizationData>
-        <ahit:Name xml:lang="it">Dipartimento della Protezione Civile</ahit:Name>
-        <ahit:Name xml:lang="en">Civil Protection Department</ahit:Name>
-        <ahit:ExtendedName xml:lang="it">Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile</ahit:ExtendedName>
-        <ahit:ExtendedName xml:lang="en">Presidency of the Council of Ministers - Civil Protection Department</ahit:ExtendedName>
-        <ahit:Abbreviation xml:lang="it">DPC</ahit:Abbreviation>
-        <ahit:Abbreviation xml:lang="en">DPC</ahit:Abbreviation>
-        <ahit:Logo>0001--PCM-DPC.longLogo.svg</ahit:Logo>
-    </ahit:organizationData>
-    <ahit:appData appCode="siam">
+    <ahit:appData appCode="webapp">
         <ahit:alertCategories>
             <ahit:alertCategory>Geo</ahit:alertCategory>
         </ahit:alertCategories>
         <ahit:geographicalAreasCovered>
             <ahit:geographicalAreaCovered>
-                <ahit:type>Tsunami</ahit:type>
-                <ahit:geocode>all</ahit:geocode>
+                <ahit:type>tsunami</ahit:type>
+                <ahit:polygon>restricted</ahit:polygon>
+                <ahit:restrictedPolygonsGeocodes>
+                    <ahit:restrictedPolygonGeocode>lazio</ahit:restrictedPolygonGeocode>
+                </ahit:restrictedPolygonsGeocodes>
             </ahit:geographicalAreaCovered>
         </ahit:geographicalAreasCovered>
         <ahit:appUris>
