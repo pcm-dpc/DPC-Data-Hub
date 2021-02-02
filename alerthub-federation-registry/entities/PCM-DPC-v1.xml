@@ -14,7 +14,7 @@
         <ahit:geographicalAreasCovered>
             <ahit:geographicalAreaCovered>
                 <ahit:restrictedPolygonsGeocodes>
-                    <ahit:restrictedPolygonGeocode type="dpc-regioni">12</ahit:restrictedPolygonGeocode><!-- use nace code -->
+                    <ahit:restrictedPolygonGeocode type="dpc-regioni" data="istat">12</ahit:restrictedPolygonGeocode>
                 </ahit:restrictedPolygonsGeocodes>
             </ahit:geographicalAreaCovered>
         </ahit:geographicalAreasCovered>
