@@ -13,9 +13,8 @@
         </ahit:alertCategories>
         <ahit:geographicalAreasCovered>
             <ahit:geographicalAreaCovered>
-                <ahit:polygon>restricted</ahit:polygon>
                 <ahit:restrictedPolygonsGeocodes>
-                    <ahit:restrictedPolygonGeocode type="region">lazio</ahit:restrictedPolygonGeocode>
+                    <ahit:restrictedPolygonGeocode type="dpc-regioni">12</ahit:restrictedPolygonGeocode><!-- use nace code -->
                 </ahit:restrictedPolygonsGeocodes>
             </ahit:geographicalAreaCovered>
         </ahit:geographicalAreasCovered>
