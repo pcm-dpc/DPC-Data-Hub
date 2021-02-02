@@ -1,0 +1,62 @@
+{
+    "AlertHub-IT-FederationRegistry-Entity": {
+        "xmlns:ahit": "https://alerthub.protezionecivile.it/federation-registry#",
+        "xmlns:ds": "http://www.w3.org/2000/09/xmldsig#",
+        "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "xsi:schemaLocation": "https://alerthub.protezionecivile.it/federation-registry/AlertHub-IT-FederationRegistry-Entity.xsd",
+        "id": "b37b2476-8e54-4707-9791-91820c59d531",
+        "entityCode": "PCM-DPC",
+        "version": 1,
+        "releaseDate": "2020-09-15",
+        "ahit:appData": [
+            {
+                "appCode": "webapp",
+                "ahit:alertCategories": {
+                    "ahit:alertCategory": [
+                        "Geo",
+                        "Met"
+                    ]
+                },
+                "ahit:geographicalAreasCovered": {
+                    "ahit:geographicalAreaCovered": {
+                        "ahit:type": "tsunami",
+                        "ahit:polygon": "restricted",
+                        "ahit:restrictedPolygonsGeocodes": {"ahit:restrictedPolygonGeocode": "lazio"}
+                    }
+                },
+                "ahit:signingKeys": {
+                    "ahit:signingKey": [
+                        {
+                            "ds:KeyInfo": {
+                                "ds:X509Data": {"ds:X509Certificate": "MIIEeTCCA2GgAwIBAgIUUkS3dVg7mjjXsaTAdPdaha1my3gwDQYJKoZIhvcNAQEL\n                            BQAwgcsxCzAJBgNVBAYTAklUMQ0wCwYDVQQIDARSb21hMQ0wCwYDVQQHDARSb21h\n                            MS0wKwYDVQQKDCREaXBhcnRpbWVudG8gZGVsbGEgUHJvdGV6aW9uZSBDaXZpbGUx\n                            HDAaBgNVBAsME1Npc3RlbWkgSW5mb3JtYXRpdmkxHjAcBgNVBAMMFSoucHJvdGV6\n                            aW9uZWNpdmlsZS5pdDExMC8GCSqGSIb3DQEJARYidW1iZXJ0by5yb3NpbmlAcHJv\n                            dGV6aW9uZWNpdmlsZS5pdDAeFw0yMDA5MjIyMDIzMTNaFw0yMTA5MjIyMDIzMTNa\n                            MIHLMQswCQYDVQQGEwJJVDENMAsGA1UECAwEUm9tYTENMAsGA1UEBwwEUm9tYTEt\n                            MCsGA1UECgwkRGlwYXJ0aW1lbnRvIGRlbGxhIFByb3RlemlvbmUgQ2l2aWxlMRww\n                            GgYDVQQLDBNTaXN0ZW1pIEluZm9ybWF0aXZpMR4wHAYDVQQDDBUqLnByb3Rlemlv\n                            bmVjaXZpbGUuaXQxMTAvBgkqhkiG9w0BCQEWInVtYmVydG8ucm9zaW5pQHByb3Rl\n                            emlvbmVjaXZpbGUuaXQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC3\n                            OOzBVyO+/j3i+WE1ezAXs4rsVT5lpjpJCfQDiZU+F+fcYR3aerhb5h5r8UMTaO9T\n                            0JCSQu2Kki2cU4EbvEgTgdQLvoa0FdepkP01lyiyqRUMmqXfmCEpJDcS/M8iOmdE\n                            lwEFkiTAGB3ZOMicODbt5ytkDpmgTQi4kOTHPQV65cZ9XaY6Ps8+jp+zPXNSk1ym\n                            ToOD3bgG6yQMXm1LlvOTmy3zptEPYLZZWHkxmDXUO8tKNvrq1CtX7KaWVqJFegAo\n                            E3a0YZzBsuWsPhTUAnccZQGfB+ldKsm49Tgo6KjEbZuS7Nxo9T8EAx3n5NbA6KvR\n                            iY19SL+W/5BNg7+AT0FLAgMBAAGjUzBRMB0GA1UdDgQWBBQ4fvmsHTzi7898lDeJ\n                            dtI1m/l/eDAfBgNVHSMEGDAWgBQ4fvmsHTzi7898lDeJdtI1m/l/eDAPBgNVHRMB\n                            Af8EBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQBo9LCHyAQgXIVyHh3gMIN3MfKx\n                            LYHiA9Fp2gJOuD8HtJwxgTaz3WQkAVEJF1HBVu1eA5RnaYC5HaSQRg3S/uRVC+lX\n                            uGzC1rx//vUZlBveZO8rxzah/uYy5aBII6SZOg0OkXyQeq03+gYIHsV2DsYsAMhb\n                            A2CB76SowmCEo3aiOkkayjQ5cVoaW4xmQxvHsPpsD3Riz53IbUNBRYnknAt3WQ5p\n                            WumpUtF9gd4WB4A6mB6XdL63Jyr31SZG9Ixymj/9rT6L70h+mzVDQVMPqpl/WZHB\n                            Zjj+dGJ2yumhkHUOaMDY6Jo/ZYAulFdyGKDy1f8oXXjw7lAZv2HhjdzLWnJw"}
+                            }
+                        },
+                        {
+                            "ds:KeyInfo": {
+                                "ds:X509Data": {"ds:X509Certificate": "MIIEeTCCA2GgAwIBAgIUdUFackDnR1SxOoALUfUipn9LI9IwDQYJKoZIhvcNAQEL\n                            BQAwgcsxCzAJBgNVBAYTAklUMQ0wCwYDVQQIDARSb21hMQ0wCwYDVQQHDARSb21h\n                            MS0wKwYDVQQKDCREaXBhcnRpbWVudG8gZGVsbGEgUHJvdGV6aW9uZSBDaXZpbGUx\n                            HDAaBgNVBAsME1Npc3RlbWkgSW5mb3JtYXRpdmkxHjAcBgNVBAMMFSoucHJvdGV6\n                            aW9uZWNpdmlsZS5pdDExMC8GCSqGSIb3DQEJARYidW1iZXJ0by5yb3NpbmlAcHJv\n                            dGV6aW9uZWNpdmlsZS5pdDAeFw0yMDA5MjIyMDI2NDJaFw0yMTA5MjIyMDI2NDJa\n                            MIHLMQswCQYDVQQGEwJJVDENMAsGA1UECAwEUm9tYTENMAsGA1UEBwwEUm9tYTEt\n                            MCsGA1UECgwkRGlwYXJ0aW1lbnRvIGRlbGxhIFByb3RlemlvbmUgQ2l2aWxlMRww\n                            GgYDVQQLDBNTaXN0ZW1pIEluZm9ybWF0aXZpMR4wHAYDVQQDDBUqLnByb3Rlemlv\n                            bmVjaXZpbGUuaXQxMTAvBgkqhkiG9w0BCQEWInVtYmVydG8ucm9zaW5pQHByb3Rl\n                            emlvbmVjaXZpbGUuaXQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDA\n                            YfW+Bny5NN0q0d9N0fN1KY5BAmtSsl3xDBBHiQOs1pRcRiXZcBcsZbgOa2sufrbk\n                            gRaDNF2pPQKEjTnOLcYiVfi5vxuvOHbYUR+ddpg3LgGeJc7x1BJgFEF9a/EShcBb\n                            BAoIH7meUbF5xtZdpwFM2MZUVMKVMER37ERNqFpx87KfuJPnJH4Hd4VoqXORSrjg\n                            2BQXN/ePXNz4/Uzv/QJFdMil44zhKlJJl8muvQ90E7FeyjfnLCDoX/TNY7P2yVct\n                            NW5eWDnL/YotoUGnskoSH1UjshByBbTSCp4QgFY/8X+u7BvVqH9VFK8HZfkaSOsr\n                            m/vI/aTr7UQRe5ZEo3hbAgMBAAGjUzBRMB0GA1UdDgQWBBTYHWKu2h1CTtk2RkJp\n                            BrygZ7KEHDAfBgNVHSMEGDAWgBTYHWKu2h1CTtk2RkJpBrygZ7KEHDAPBgNVHRMB\n                            Af8EBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQBSkkoh9oZd0p46tKG1rWOCtg3B\n                            moPpWlbbC9TiSwIxbKR4ZaHlGzqrdJD7f4WAIDQ1KICUYQs9YbHQHUTrbRcn/+o/\n                            0cl4bj4oirIkx9ZXiSzqPDZrPjMZaGllI/LzcrvlPSXez0yztOS05AQh9qHlDBt7\n                            f6clZ6L6rxTHLtEwc/Vx6CdrbYA8hrkdSwxoVbPN/LNAelKcmjM7lcn9CnY1dppK\n                            Kcm/LVziySpf1i9UeSKxeDNR0adAQLwoRv81IpHJDuRodMfSmxtH01MfN06MIHI9\n                            ESPmqG9nayxxsFqxWYT6dXkG6accYT1o25oN2r4JCD4VhowEClweCY8WOOKj"}
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "appCode": "centro-funzionale",
+                "ahit:alertCategories": {"ahit:alertCategory": "Met"},
+                "ahit:geographicalAreasCovered": {
+                    "ahit:geographicalAreaCovered": {
+                        "ahit:type": "Italy",
+                        "ahit:geocode": "all"
+                    }
+                },
+                "ahit:appUris": {"ahit:appUri": "https://meteo.protezionecivile.it/post01"},
+                "ahit:signingKeys": {
+                    "ahit:signingKey": {
+                        "ds:KeyInfo": {
+                            "ds:X509Data": {"ds:X509Certificate": "MIIEeTCCA2GgAwIBAgIUUkS3dVg7mjjXsaTAdPdaha1my3gwDQYJKoZIhvcNAQEL\n                            BQAwgcsxCzAJBgNVBAYTAklUMQ0wCwYDVQQIDARSb21hMQ0wCwYDVQQHDARSb21h\n                            MS0wKwYDVQQKDCREaXBhcnRpbWVudG8gZGVsbGEgUHJvdGV6aW9uZSBDaXZpbGUx\n                            HDAaBgNVBAsME1Npc3RlbWkgSW5mb3JtYXRpdmkxHjAcBgNVBAMMFSoucHJvdGV6\n                            aW9uZWNpdmlsZS5pdDExMC8GCSqGSIb3DQEJARYidW1iZXJ0by5yb3NpbmlAcHJv\n                            dGV6aW9uZWNpdmlsZS5pdDAeFw0yMDA5MjIyMDIzMTNaFw0yMTA5MjIyMDIzMTNa\n                            MIHLMQswCQYDVQQGEwJJVDENMAsGA1UECAwEUm9tYTENMAsGA1UEBwwEUm9tYTEt\n                            MCsGA1UECgwkRGlwYXJ0aW1lbnRvIGRlbGxhIFByb3RlemlvbmUgQ2l2aWxlMRww\n                            GgYDVQQLDBNTaXN0ZW1pIEluZm9ybWF0aXZpMR4wHAYDVQQDDBUqLnByb3Rlemlv\n                            bmVjaXZpbGUuaXQxMTAvBgkqhkiG9w0BCQEWInVtYmVydG8ucm9zaW5pQHByb3Rl\n                            emlvbmVjaXZpbGUuaXQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC3\n                            OOzBVyO+/j3i+WE1ezAXs4rsVT5lpjpJCfQDiZU+F+fcYR3aerhb5h5r8UMTaO9T\n                            0JCSQu2Kki2cU4EbvEgTgdQLvoa0FdepkP01lyiyqRUMmqXfmCEpJDcS/M8iOmdE\n                            lwEFkiTAGB3ZOMicODbt5ytkDpmgTQi4kOTHPQV65cZ9XaY6Ps8+jp+zPXNSk1ym\n                            ToOD3bgG6yQMXm1LlvOTmy3zptEPYLZZWHkxmDXUO8tKNvrq1CtX7KaWVqJFegAo\n                            E3a0YZzBsuWsPhTUAnccZQGfB+ldKsm49Tgo6KjEbZuS7Nxo9T8EAx3n5NbA6KvR\n                            iY19SL+W/5BNg7+AT0FLAgMBAAGjUzBRMB0GA1UdDgQWBBQ4fvmsHTzi7898lDeJ\n                            dtI1m/l/eDAfBgNVHSMEGDAWgBQ4fvmsHTzi7898lDeJdtI1m/l/eDAPBgNVHRMB\n                            Af8EBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQBo9LCHyAQgXIVyHh3gMIN3MfKx\n                            LYHiA9Fp2gJOuD8HtJwxgTaz3WQkAVEJF1HBVu1eA5RnaYC5HaSQRg3S/uRVC+lX\n                            uGzC1rx//vUZlBveZO8rxzah/uYy5aBII6SZOg0OkXyQeq03+gYIHsV2DsYsAMhb\n                            A2CB76SowmCEo3aiOkkayjQ5cVoaW4xmQxvHsPpsD3Riz53IbUNBRYnknAt3WQ5p\n                            WumpUtF9gd4WB4A6mB6XdL63Jyr31SZG9Ixymj/9rT6L70h+mzVDQVMPqpl/WZHB\n                            Zjj+dGJ2yumhkHUOaMDY6Jo/ZYAulFdyGKDy1f8oXXjw7lAZv2HhjdzLWnJw"}
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

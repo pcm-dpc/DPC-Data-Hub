@@ -9,6 +9,7 @@
     <ahit:appData appCode="webapp">
         <ahit:alertCategories>
             <ahit:alertCategory>Geo</ahit:alertCategory>
+            <ahit:alertCategory>Met</ahit:alertCategory>
         </ahit:alertCategories>
         <ahit:geographicalAreasCovered>
             <ahit:geographicalAreaCovered>
@@ -19,15 +20,15 @@
                 </ahit:restrictedPolygonsGeocodes>
             </ahit:geographicalAreaCovered>
         </ahit:geographicalAreasCovered>
-        <ahit:appUris>
+        <!--ahit:appUris>
             <ahit:appUri>https://xxx/postCap001</ahit:appUri>
             <ahit:appUri>https://xxx/postCap002</ahit:appUri>
-        </ahit:appUris>
-        <ahit:confirmMessage>
+        </ahit:appUris-->
+        <!--ahit:confirmMessage>
             <ahit:confirmMessageCode>ABC123</ahit:confirmMessageCode>
             <ahit:confirmMessageCode>123ABC</ahit:confirmMessageCode>
             <ahit:confirmMessageCode>A1B2C3</ahit:confirmMessageCode>
-        </ahit:confirmMessage>
+        </ahit:confirmMessage-->
         <ahit:signingKeys>
             <ahit:signingKey>
                 <ds:KeyInfo>
