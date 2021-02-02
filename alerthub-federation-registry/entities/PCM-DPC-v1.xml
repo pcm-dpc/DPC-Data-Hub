@@ -13,11 +13,9 @@
         </ahit:alertCategories>
         <ahit:geographicalAreasCovered>
             <ahit:geographicalAreaCovered>
-                <ahit:type>tsunami</ahit:type>
                 <ahit:polygon>restricted</ahit:polygon>
                 <ahit:restrictedPolygonsGeocodes>
-                    <ahit:restrictedPolygonGeocodeType>region</ahit:restrictedPolygonGeocodeType>
-                    <ahit:restrictedPolygonGeocode>lazio</ahit:restrictedPolygonGeocode>
+                    <ahit:restrictedPolygonGeocode type="region">lazio</ahit:restrictedPolygonGeocode>
                 </ahit:restrictedPolygonsGeocodes>
             </ahit:geographicalAreaCovered>
         </ahit:geographicalAreasCovered>
