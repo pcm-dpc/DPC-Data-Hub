@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cap-it-errors>
-    <cap-it-error code="100">
+    <cap-it-error category="error" code="100">
         <cap-node/>
         <description>emittente del messaggio non valido</description>
         <error_title xml:lang="it">emittente del messaggio non valido</error_title>
@@ -14,7 +14,7 @@
         <error_message xml:lang="es"/>
         <error_message xml:lang="fr"/>
     </cap-it-error>
-    <cap-it-error code="101">
+    <cap-it-error category="error" code="101">
         <cap-node/>
         <description>versione del protocollo non supportato</description>
         <error_title xml:lang="it">versione del protocollo non supportato</error_title>
@@ -28,7 +28,7 @@
         <error_message xml:lang="es"/>
         <error_message xml:lang="fr"/>
     </cap-it-error>
-    <cap-it-error code="102">
+    <cap-it-error category="error" code="102">
         <cap-node/>
         <description>errore del server</description>
         <error_title xml:lang="it">errore del server</error_title>
@@ -42,7 +42,7 @@
         <error_message xml:lang="es"/>
         <error_message xml:lang="fr"/>
     </cap-it-error>
-    <cap-it-error code="103">
+    <cap-it-error category="error" code="103">
         <cap-node/>
         <description>formato non valido</description>
         <error_title xml:lang="it">formato non valido</error_title>
@@ -56,7 +56,7 @@
         <error_message xml:lang="es"/>
         <error_message xml:lang="fr"/>
     </cap-it-error>
-    <cap-it-error code="104">
+    <cap-it-error category="error" code="104">
         <cap-node/>
         <description>elemento non valido</description>
         <error_title xml:lang="it">elemento non valido</error_title>
@@ -70,7 +70,7 @@
         <error_message xml:lang="es"/>
         <error_message xml:lang="fr"/>
     </cap-it-error>
-    <cap-it-error code="105">
+    <cap-it-error category="error" code="105">
         <cap-node/>
         <description>elemento mancante</description>
         <error_title xml:lang="it">elemento mancante</error_title>
@@ -84,7 +84,7 @@
         <error_message xml:lang="es"/>
         <error_message xml:lang="fr"/>
     </cap-it-error>
-    <cap-it-error code="106">
+    <cap-it-error category="error" code="106">
         <cap-node/>
         <description>operazione non consentita</description>
         <error_title xml:lang="it">operazione non consentita</error_title>
@@ -98,7 +98,7 @@
         <error_message xml:lang="es"/>
         <error_message xml:lang="fr"/>
     </cap-it-error>
-    <cap-it-error code="107">
+    <cap-it-error category="error" code="107">
         <cap-node/>
         <description>operazione scartata a priori</description>
         <error_title xml:lang="it">operazione scartata a priori</error_title>

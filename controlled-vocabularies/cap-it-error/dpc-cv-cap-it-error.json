@@ -1,6 +1,7 @@
 {
     "cap-it-error": [
         {
+            "category": "error",
             "code": "100",
             "cap-node": "",
             "description": "emittente del messaggio non valido",
@@ -20,6 +21,7 @@
             }
         },
         {
+            "category": "error",
             "code": "101",
             "cap-node": "",
             "description": "versione del protocollo non supportato",
@@ -39,6 +41,7 @@
             }
         },
         {
+            "category": "error",
             "code": "102",
             "cap-node": "",
             "description": "errore del server",
@@ -58,6 +61,7 @@
             }
         },
         {
+            "category": "error",
             "code": "103",
             "cap-node": "",
             "description": "formato non valido",
@@ -77,6 +81,7 @@
             }
         },
         {
+            "category": "error",
             "code": "104",
             "cap-node": "",
             "description": "elemento non valido",
@@ -96,6 +101,7 @@
             }
         },
         {
+            "category": "error",
             "code": "105",
             "cap-node": "",
             "description": "elemento mancante",
@@ -115,6 +121,7 @@
             }
         },
         {
+            "category": "error",
             "code": "106",
             "cap-node": "",
             "description": "operazione non consentita",
@@ -134,6 +141,7 @@
             }
         },
         {
+            "category": "error",
             "code": "107",
             "cap-node": "",
             "description": "operazione scartata a priori",

@@ -1,9 +1,9 @@
-code,cap-node,description,error_title_it,error_title_en,error_title_de,error_title_es,error_title_fr,error_message_it,error_message_en,error_message_de,error_message_es,error_message_fr
-100,,emittente del messaggio non valido,emittente del messaggio non valido,invalid-sender,,,,emittente del messaggio non valido,invalid-sender,,,
-101,,versione del protocollo non supportato,versione del protocollo non supportato,protocol-version-not-supported,,,,versione del protocollo non supportato,protocol-version-not-supported,,,
-102,,errore del server,errore del server,server-error,,,,errore del server,server-error,,,
-103,,formato non valido,formato non valido,invalid-format,,,,formato non valido,invalid-format,,,
-104,,elemento non valido,elemento non valido,invalid-element,,,,elemento non valido,invalid-element,,,
-105,,elemento mancante,elemento mancante,missing-element,,,,elemento mancante,missing-element,,,
-106,,operazione non consentita,operazione non consentita,operation-not-allowed,,,,operazione non consentita,operation-not-allowed,,,
-107,,operazione scartata a priori,operazione scartata a priori,operation-pre-empted,,,,operazione scartata a priori,operation-pre-empted,,,
+category,code,cap-node,description,error_title_it,error_title_en,error_title_de,error_title_es,error_title_fr,error_message_it,error_message_en,error_message_de,error_message_es,error_message_fr
+error,100,,emittente del messaggio non valido,emittente del messaggio non valido,invalid-sender,,,,emittente del messaggio non valido,invalid-sender,,,
+error,101,,versione del protocollo non supportato,versione del protocollo non supportato,protocol-version-not-supported,,,,versione del protocollo non supportato,protocol-version-not-supported,,,
+error,102,,errore del server,errore del server,server-error,,,,errore del server,server-error,,,
+error,103,,formato non valido,formato non valido,invalid-format,,,,formato non valido,invalid-format,,,
+error,104,,elemento non valido,elemento non valido,invalid-element,,,,elemento non valido,invalid-element,,,
+error,105,,elemento mancante,elemento mancante,missing-element,,,,elemento mancante,missing-element,,,
+error,106,,operazione non consentita,operazione non consentita,operation-not-allowed,,,,operazione non consentita,operation-not-allowed,,,
+error,107,,operazione scartata a priori,operazione scartata a priori,operation-pre-empted,,,,operazione scartata a priori,operation-pre-empted,,,
